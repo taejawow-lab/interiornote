@@ -1,0 +1,58 @@
+/**
+ * interiornote.org 디자인 토큰
+ * 자동 생성됨 (2026-05-07T11:20:48.511Z)
+ * 출처: design-tokens.json
+ *
+ * 형식: RGB 채널 (예: "168 216 201")
+ * 사용: rgb(var(--color-primary) / 30%) → bg-primary/30 같은 Tailwind alpha 변형 가능
+ */
+
+:root {
+  --color-background: 250 248 244;
+  --color-foreground: 31 31 31;
+
+  --color-primary: 212 196 176;
+  --color-primary-foreground: 31 31 31;
+
+  --color-accent: 31 31 31;
+  --color-accent-foreground: 255 255 255;
+
+  --color-muted: 245 243 239;
+  --color-muted-foreground: 71 71 71;
+
+  --color-card: 250 248 244;
+  --color-card-foreground: 31 31 31;
+
+  --color-border: 111 111 111;
+  --color-input: 106 106 106;
+  --color-ring: 212 196 176;
+
+  --font-heading: "Cormorant Garamond", Georgia, serif;
+  --font-body: "Inter", system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+
+  --radius: 2px;
+
+  --transition-base: 200ms cubic-bezier(0.4, 0, 0.2, 1);
+  --transition-slow: 400ms cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+[data-theme='dark'] {
+  --color-background: 26 24 20;
+  --color-foreground: 242 237 229;
+
+  --color-primary: 168 155 133;
+  --color-primary-foreground: 31 31 31;
+
+  --color-accent: 31 31 31;
+  --color-accent-foreground: 255 255 255;
+
+  --color-muted: 34 32 28;
+  --color-muted-foreground: 212 207 199;
+
+  --color-card: 31 29 25;
+  --color-card-foreground: 242 237 229;
+
+  --color-border: 182 177 169;
+  --color-input: 177 172 164;
+}
