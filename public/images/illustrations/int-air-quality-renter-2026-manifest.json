@@ -1,0 +1,121 @@
+{
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "qa": "contact sheet int-air-quality-renter-2026-contact-sheet.jpg visually inspected; 6 usable topic-accurate images; no readable text/logos or severe distortions observed",
+  "images": [
+    {
+      "filename": "int-air-quality-renter-2026-hero.png",
+      "size": [
+        1536,
+        864
+      ],
+      "endpoint": "http://192.168.50.29:8188",
+      "host": "gti13",
+      "prompt_id": "80d32dd4-3113-4fa1-b160-235d58f67fcd",
+      "seed": 2605276121,
+      "positive": "photorealistic editorial interior design photo, accurate modern appliance design, small rental apartment, no readable text, no logos, no labels, straight architecture, magazine quality, high detail, large clearly visible plain white cylindrical portable air purifier appliance in foreground with perforated vent holes, cozy small apartment living room behind it, open window, sofa, warm sunlight, renter friendly",
+      "negative": "text, words, letters, numbers, logos, watermark, label, brand, sign, people, hands, faces, distorted appliance, broken vents, extra appliances, low quality, blurry",
+      "checkpoint": "RealVisXL_V5.0.safetensors",
+      "dimensions": "1536x864",
+      "steps": 32,
+      "cfg": 8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "filename": "int-air-quality-renter-2026-01.png",
+      "size": [
+        1536,
+        864
+      ],
+      "endpoint": "http://192.168.50.29:8188",
+      "host": "gti13",
+      "prompt_id": "3ffa332c-023a-4255-bab5-1d7c75b27720",
+      "seed": 2605276122,
+      "positive": "photorealistic editorial interior design photo, accurate modern appliance design, small rental apartment, no readable text, no logos, no labels, straight architecture, magazine quality, high detail, box fan in open apartment window plus plain white air purifier on floor, curtains moving, clear cross ventilation path, small living room, safe stable placement",
+      "negative": "text, words, letters, numbers, logos, watermark, label, brand, sign, people, hands, faces, distorted appliance, broken vents, extra appliances, low quality, blurry",
+      "checkpoint": "RealVisXL_V5.0.safetensors",
+      "dimensions": "1536x864",
+      "steps": 32,
+      "cfg": 8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "filename": "int-air-quality-renter-2026-02.png",
+      "size": [
+        1536,
+        864
+      ],
+      "endpoint": "http://192.168.50.29:8188",
+      "host": "gti13",
+      "prompt_id": "8010fc5a-5adb-40ef-a2a7-4c05e9cad8ab",
+      "seed": 2605276123,
+      "positive": "photorealistic editorial interior design photo, accurate modern appliance design, small rental apartment, no readable text, no logos, no labels, straight architecture, magazine quality, high detail, plain white portable dehumidifier appliance with water tank visible on waterproof tray beside bedroom closet, bed pulled away from wall, open window, moisture control setup",
+      "negative": "text, words, letters, numbers, logos, watermark, label, brand, sign, people, hands, faces, distorted appliance, broken vents, extra appliances, low quality, blurry",
+      "checkpoint": "RealVisXL_V5.0.safetensors",
+      "dimensions": "1536x864",
+      "steps": 32,
+      "cfg": 8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "filename": "int-air-quality-renter-2026-03.png",
+      "size": [
+        1536,
+        864
+      ],
+      "endpoint": "http://192.168.50.29:8188",
+      "host": "gti13",
+      "prompt_id": "ef13e1ac-b22d-4900-ae59-0203b29bb1d6",
+      "seed": 2605276104,
+      "positive": "photorealistic editorial interior design photograph, small rental apartment, warm natural light, practical safe layout, magazine quality, clean modern cozy style, no people, no readable text, no logos, no labels, no signs, no screens with content, accurate furniture proportions, straight vertical walls, high detail, kitchen source control setup, range hood area, covered trash bin, wipeable backsplash, open window, small fan away from stove, tidy counter, no readable appliance labels",
+      "negative": "text, words, letters, numbers, logos, watermark, label, sign, UI, screen text, messy artifacts, distorted furniture, warped architecture, people, hands, faces, cluttered unsafe cords, low quality, blurry",
+      "checkpoint": "RealVisXL_V5.0.safetensors",
+      "dimensions": "1536x864",
+      "steps": 28,
+      "cfg": 6.5,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "filename": "int-air-quality-renter-2026-04.png",
+      "size": [
+        1536,
+        864
+      ],
+      "endpoint": "http://192.168.50.29:8188",
+      "host": "gti13",
+      "prompt_id": "b887471f-a553-468b-8136-624958edb875",
+      "seed": 2605276124,
+      "positive": "photorealistic editorial interior design photo, accurate modern appliance design, small rental apartment, no readable text, no logos, no labels, straight architecture, magazine quality, high detail, plain white tower air purifier appliance next to small home office desk with blank computer screen, enough clear space around intake, open window, tidy cables",
+      "negative": "text, words, letters, numbers, logos, watermark, label, brand, sign, people, hands, faces, distorted appliance, broken vents, extra appliances, low quality, blurry",
+      "checkpoint": "RealVisXL_V5.0.safetensors",
+      "dimensions": "1536x864",
+      "steps": 32,
+      "cfg": 8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "filename": "int-air-quality-renter-2026-05.png",
+      "size": [
+        1536,
+        864
+      ],
+      "endpoint": "http://192.168.50.29:8188",
+      "host": "gti13",
+      "prompt_id": "f9ab10cd-c0dd-4729-9f26-a0dff718695e",
+      "seed": 2605276125,
+      "positive": "photorealistic editorial interior design photo, accurate modern appliance design, small rental apartment, no readable text, no logos, no labels, straight architecture, magazine quality, high detail, entryway shoe tray and small plain air purifier near open closet, breathable shoe rack, umbrella stand, clear floor path, open door window light",
+      "negative": "text, words, letters, numbers, logos, watermark, label, brand, sign, people, hands, faces, distorted appliance, broken vents, extra appliances, low quality, blurry",
+      "checkpoint": "RealVisXL_V5.0.safetensors",
+      "dimensions": "1536x864",
+      "steps": 32,
+      "cfg": 8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ]
+}
