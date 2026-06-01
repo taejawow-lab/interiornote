@@ -1,0 +1,126 @@
+{
+  "date": "2026-06-02",
+  "site": "interiornote",
+  "gti13_gate": "available true via direct ComfyUI; sentinel unreachable but direct ComfyUI ok",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "slug": "renter-friendly-wildfire-smoke-entry-window-plan-2026",
+  "post": "src/content/posts/renter-friendly-wildfire-smoke-entry-window-plan-2026.mdx",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-wildfire-smoke-window-plan-2026-hero.png",
+      "bytes": 1380911,
+      "prompt": "small apartment clean room with closed windows, neutral curtains, portable air cleaner with blank controls, clear floor path, no text",
+      "seed": 202606020100,
+      "prompt_id": "8ac5cc18-e364-409f-b300-d796ccd70b9c",
+      "raw_output": {
+        "filename": "hermes_batchb_20260602_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-wildfire-smoke-window-plan-2026-01.png",
+      "bytes": 1681039,
+      "prompt": "entryway with washable shoe tray, closed hamper, hooks, smoky day routine, no labels",
+      "seed": 202606020101,
+      "prompt_id": "65e0917d-e2c3-47af-b432-0ac6b26e05e1",
+      "raw_output": {
+        "filename": "hermes_batchb_20260602_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-wildfire-smoke-window-plan-2026-02.png",
+      "bytes": 1456768,
+      "prompt": "close view of window gap inspection with removable plain strip, no writing, no tape labels",
+      "seed": 202606020102,
+      "prompt_id": "a4195081-f8e4-4992-8107-1ee4c2bb55e4",
+      "raw_output": {
+        "filename": "hermes_batchb_20260602_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-wildfire-smoke-window-plan-2026-03.png",
+      "bytes": 1326025,
+      "prompt": "portable air cleaner in open space away from curtains and water, blank controls, no text",
+      "seed": 202606020103,
+      "prompt_id": "252dbbaf-2b73-4c68-affe-b116cd9dd2c7",
+      "raw_output": {
+        "filename": "hermes_batchb_20260602_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-wildfire-smoke-window-plan-2026-04.png",
+      "bytes": 1874116,
+      "prompt": "small apartment textiles reset with laundry basket and folded blankets, no readable tags",
+      "seed": 202606020104,
+      "prompt_id": "6692d4c9-1b7d-4c5d-b6e4-f656d6a377a8",
+      "raw_output": {
+        "filename": "hermes_batchb_20260602_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-wildfire-smoke-window-plan-2026-05.png",
+      "bytes": 1344360,
+      "prompt": "renter friendly layout with clear door swing and minimal furniture, no posters, no text",
+      "seed": 202606020105,
+      "prompt_id": "bcc21aae-90ad-4f93-ac8d-3b771a6e0b35",
+      "raw_output": {
+        "filename": "hermes_batchb_20260602_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    }
+  ],
+  "visual_qa": "PASS after contact-sheet inspection; regenerated rejected images where needed",
+  "qa_regenerated": [
+    {
+      "site": "kurashinotes",
+      "suffix": "01",
+      "seed": 202606029201
+    },
+    {
+      "site": "learnpathhub",
+      "suffix": "02",
+      "seed": 202606029302
+    },
+    {
+      "site": "learnpathhub",
+      "suffix": "04",
+      "seed": 202606029304
+    },
+    {
+      "site": "learnpathhub",
+      "suffix": "04",
+      "seed": 202606029404,
+      "round": 2
+    }
+  ]
+}
