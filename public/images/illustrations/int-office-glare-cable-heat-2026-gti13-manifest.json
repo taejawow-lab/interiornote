@@ -1,0 +1,108 @@
+{
+  "date": "2026-06-03",
+  "site": "interiornote",
+  "slug": "small-apartment-home-office-glare-cable-heat-layout-2026",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-office-glare-cable-heat-2026-hero.png",
+      "bytes": 1490533,
+      "prompt": "small apartment home office with desk angled away from window glare, closed laptop, blank screen, no text",
+      "seed": 202606030100,
+      "prompt_id": "c6c154d3-5d11-4085-ad7d-a14652519b16",
+      "raw_output": {
+        "filename": "hermes_batchb_20260603_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-office-glare-cable-heat-2026-01.png",
+      "bytes": 1834056,
+      "prompt": "minimal small apartment office corner, clear hardwood floor, plain white baseboard, sunlight, absolutely no cables or cords visible, safe tidy renter friendly room photo",
+      "seed": 202606039700,
+      "prompt_id": "07060c0d-fb09-4e2f-afb7-269fe0346495",
+      "raw_output": {
+        "filename": "hermes_batchb_20260603_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_replacement": true,
+      "qa_replacement_final": true,
+      "qa_replacement_final2": true
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-office-glare-cable-heat-2026-02.png",
+      "bytes": 1614311,
+      "prompt": "task lamp and side curtain creating soft light on blank desk, no readable paper",
+      "seed": 202606030102,
+      "prompt_id": "44a5a7cf-700a-4033-b848-75564df251d3",
+      "raw_output": {
+        "filename": "hermes_batchb_20260603_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-office-glare-cable-heat-2026-03.png",
+      "bytes": 1850488,
+      "prompt": "neat home office desk with cable tray hidden under back edge, clear chair path, ventilated empty shelf for adapters, no loose cords, no screens, no labels, safe realistic photo",
+      "seed": 202606039501,
+      "prompt_id": "228c89d7-a362-4322-acfe-1f7b69fd001e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260603_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_replacement": true,
+      "qa_replacement_final": true
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-office-glare-cable-heat-2026-04.png",
+      "bytes": 853014,
+      "prompt": "laptop on stand with blank dark screen and open airflow, no UI",
+      "seed": 202606030104,
+      "prompt_id": "e85e8141-8775-420b-9aea-aff80a42324d",
+      "raw_output": {
+        "filename": "hermes_batchb_20260603_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-office-glare-cable-heat-2026-05.png",
+      "bytes": 1363064,
+      "prompt": "evening desk reset with chair path clear, closed notebook blank cover, no writing",
+      "seed": 202606030105,
+      "prompt_id": "049dbf82-1374-4cd7-ba90-d283096c25e6",
+      "raw_output": {
+        "filename": "hermes_batchb_20260603_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260603-interiornote-contact-sheet-final.jpg",
+  "visual_qa": "final contact sheet reviewed after third QA pass; images with readable labels or loose cords were replaced",
+  "adsense_readiness": "source-backed helpful content, practical tables/checklists, no affiliate filler, AI image provenance committed"
+}
