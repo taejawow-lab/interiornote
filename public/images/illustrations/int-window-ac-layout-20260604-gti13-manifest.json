@@ -1,0 +1,109 @@
+{
+  "date": "2026-06-04",
+  "site": "interiornote",
+  "slug": "window-ac-small-apartment-layout-cords-condensation-2026",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-window-ac-layout-20260604-hero.png",
+      "bytes": 1299842,
+      "prompt": "small apartment room with a real window air conditioner in lower window, curtains tied away, open floor path, no text no logo",
+      "seed": 202606050744,
+      "prompt_id": "9f045a9f-0789-45bd-983c-de205901fbc9",
+      "raw_output": {
+        "filename": "hermes_batchb_20260604_regen_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-window-ac-layout-20260604-01.png",
+      "bytes": 1643438,
+      "prompt": "close view of real window air conditioner with fabric curtains clipped safely away from vents, no text no logo",
+      "seed": 202606050411,
+      "prompt_id": "c321bec2-8ec8-42f3-8243-1748cd848c96",
+      "raw_output": {
+        "filename": "hermes_batchb_20260604_regen_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-window-ac-layout-20260604-02.png",
+      "bytes": 1678194,
+      "prompt": "small apartment bedroom with real window air conditioner visible and furniture spaced for airflow, no text no logo",
+      "seed": 202606050412,
+      "prompt_id": "3e217120-5676-4a27-89be-c48d8bf843e1",
+      "raw_output": {
+        "filename": "hermes_batchb_20260604_regen_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-window-ac-layout-20260604-03.png",
+      "bytes": 1352638,
+      "prompt": "safe wall outlet near window air conditioner with single cord routed along wall and no walkway crossing, no text no logo no exposed wiring",
+      "seed": 202606050413,
+      "prompt_id": "ba7e8999-147b-4d04-99b2-cfc64e213e6f",
+      "raw_output": {
+        "filename": "hermes_batchb_20260604_regen_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-window-ac-layout-20260604-04.png",
+      "bytes": 1529207,
+      "prompt": "person tying plain curtains away from a real window air conditioner, hands mostly hidden, no text no logo",
+      "seed": 202606050414,
+      "prompt_id": "b163c743-de8b-4a6b-b172-6c78fd4b35ee",
+      "raw_output": {
+        "filename": "hermes_batchb_20260604_regen_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-window-ac-layout-20260604-05.png",
+      "bytes": 1602255,
+      "prompt": "bedroom cooling layout with real window air conditioner and small fan on floor away from walking path, no text no logo",
+      "seed": 202606050415,
+      "prompt_id": "f6a2db97-24f2-440b-ba93-2a9a67a85eda",
+      "raw_output": {
+        "filename": "hermes_batchb_20260604_regen_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260604-interiornote-contact-sheet-final.jpg",
+  "visual_qa": "regenerated QA rejects; pending final contact sheet review",
+  "adsense_readiness": "helpful source-backed guide, practical tables/checklists, no affiliate filler, AI image provenance committed"
+}
