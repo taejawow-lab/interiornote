@@ -1,0 +1,105 @@
+{
+  "date": "2026-06-05",
+  "site": "interiornote",
+  "slug": "small-kitchen-heat-safe-fridge-clearance-renter-layout-2026",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-kitchen-fridge-heat-20260605-hero.png",
+      "bytes": 1475563,
+      "prompt": "small apartment kitchen with refrigerator side clearance and uncluttered counter, no text no logos",
+      "seed": 202606050100,
+      "prompt_id": "875f5f8a-34cb-4642-aa70-c348756671d7",
+      "raw_output": {
+        "filename": "hermes_batchb_20260605_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-kitchen-fridge-heat-20260605-01.png",
+      "bytes": 1440807,
+      "prompt": "small apartment kitchen with refrigerator side clearance and uncluttered counter, no text no logos",
+      "seed": 202606050101,
+      "prompt_id": "63abcb53-240c-40fe-808c-11d3d7f0bf18",
+      "raw_output": {
+        "filename": "hermes_batchb_20260605_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-kitchen-fridge-heat-20260605-02.png",
+      "bytes": 1795266,
+      "prompt": "renter kitchen showing safe gap between fridge and portable prep cart, no labels",
+      "seed": 202606050102,
+      "prompt_id": "0f820a1f-c671-4a1f-9a04-1016b641767b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260605_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-kitchen-fridge-heat-20260605-03.png",
+      "bytes": 1264608,
+      "prompt": "clear small apartment kitchen walkway and baseboard beside refrigerator, no visible cords at all, dry clean floor, safe outlet area hidden behind appliance, no text no logos, realistic editorial photo",
+      "seed": 202606059500,
+      "prompt_id": "1e6b1ad6-8bf6-4ced-8a6e-ab41215e084b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260605_qa2_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": "qa2"
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-kitchen-fridge-heat-20260605-04.png",
+      "bytes": 1604758,
+      "prompt": "summer cooking setup with window light, fan far from stove, clear countertop, no text",
+      "seed": 202606050104,
+      "prompt_id": "d1bf2c5a-63e7-4f49-b261-354639bd7d56",
+      "raw_output": {
+        "filename": "hermes_batchb_20260605_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-kitchen-fridge-heat-20260605-05.png",
+      "bytes": 1618046,
+      "prompt": "open refrigerator with organized sealed containers, completely blank lids and blank opaque thermometer shape with no numbers or marks, no readable labels, realistic editorial photo",
+      "seed": 202606059002,
+      "prompt_id": "baaee772-a14b-40ce-9ed0-be00218a56b2",
+      "raw_output": {
+        "filename": "hermes_batchb_20260605_qa_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "qa_regenerated": true
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260605-interiornote-contact-sheet.jpg",
+  "visual_qa": "final contact sheet regenerated; QA2 replaced remaining unsafe cord/text-like card issues",
+  "adsense_readiness": "helpful source-backed guide, practical tables/checklists, no affiliate filler, AI image provenance committed"
+}
