@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-06",
+  "site": "interiornote",
+  "slug": "air-purifier-placement-wildfire-smoke-renter-room-layout-2026",
+  "endpoint": "http://192.168.50.29:8188",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-air-purifier-smoke-20260606-hero.png",
+      "bytes": 1710704,
+      "prompt": "renter living room with air purifier placed away from curtains and walls, no text no logos",
+      "seed": 202606060100,
+      "prompt_id": "b4094c05-20c5-40f3-b23a-77ac60bf8aa8",
+      "raw_output": {
+        "filename": "hermes_batchb_20260606_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, medical device details, scannable pattern"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-air-purifier-smoke-20260606-01.png",
+      "bytes": 1792351,
+      "prompt": "renter living room with air purifier placed away from curtains and walls, no text no logos",
+      "seed": 202606060101,
+      "prompt_id": "911adf2b-3748-4eba-9756-6adbdc9593b9",
+      "raw_output": {
+        "filename": "hermes_batchb_20260606_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, medical device details, scannable pattern"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-air-purifier-smoke-20260606-02.png",
+      "bytes": 1579925,
+      "prompt": "bedroom clean air room with closed window, purifier on open floor, blank nightstand",
+      "seed": 202606060102,
+      "prompt_id": "27de64fb-76d1-4eaf-a50e-9639f0d8116d",
+      "raw_output": {
+        "filename": "hermes_batchb_20260606_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, medical device details, scannable pattern"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-air-purifier-smoke-20260606-03.png",
+      "bytes": 1691573,
+      "prompt": "safe air purifier power cord running visibly along wall behind furniture, not under rug, clear walkway, no text or labels",
+      "seed": 202606069001,
+      "prompt_id": "c9e22849-4b44-4aff-99aa-731da91d724f",
+      "raw_output": {
+        "filename": "hermes_batchb_20260606_qa_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, medical device details, scannable pattern"
+      },
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-air-purifier-smoke-20260606-04.png",
+      "bytes": 1499998,
+      "prompt": "two adults calmly arranging a clean-air room during smoky weather with closed window and purifier, outside haze only, no indoor smoke, blank cards, no text",
+      "seed": 202606069002,
+      "prompt_id": "7df7cf9a-9f4e-4695-a2db-225313bb4a36",
+      "raw_output": {
+        "filename": "hermes_batchb_20260606_qa_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, medical device details, scannable pattern"
+      },
+      "qa_regenerated": true
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-air-purifier-smoke-20260606-05.png",
+      "bytes": 1628012,
+      "prompt": "small apartment layout with purifier, door gap towel, clear airflow path, no text",
+      "seed": 202606060105,
+      "prompt_id": "d608455d-ec3f-488b-aaf9-661ae56e33da",
+      "raw_output": {
+        "filename": "hermes_batchb_20260606_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, medical device details, scannable pattern"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260606-interiornote-contact-sheet.jpg",
+  "visual_qa": "QA-regenerated unsafe/wrong/text-like images; final contact sheet pending review",
+  "adsense_readiness": "source-backed practical guide, 8 citations, internal link, FAQ/schema, no affiliate filler, GTI13 provenance committed"
+}
