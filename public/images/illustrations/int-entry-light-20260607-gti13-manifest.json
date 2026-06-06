@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-07",
+  "site": "interiornote",
+  "slug": "renter-entryway-emergency-lighting-blackout-layout-2026",
+  "endpoint": "http://192.168.50.29:8188",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-entry-light-20260607-hero.png",
+      "bytes": 1737848,
+      "prompt": "renter apartment entry shelf with modern rectangular rechargeable LED work light, plastic diffuser glow, potted plant, no lantern shape, no fire, no text",
+      "seed": 202606079500,
+      "prompt_id": "d6b97b99-8ed5-415a-a88a-70c2725eb20b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260607_regen2_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, scannable pattern"
+      },
+      "qa_note": "regenerated second pass after visual QA"
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-entry-light-20260607-01.png",
+      "bytes": 1853778,
+      "prompt": "small entry bench with shoes tucked away and soft emergency light, no cords in walkway",
+      "seed": 202606070101,
+      "prompt_id": "3188b7be-1687-4bd3-bbbf-0ba693d41106",
+      "raw_output": {
+        "filename": "hermes_batchb_20260607_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, scannable pattern"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-entry-light-20260607-02.png",
+      "bytes": 1331246,
+      "prompt": "indoor apartment hallway during blackout with modern rectangular LED emergency light on low shelf, clear path, no lantern, no flame, no fire, no text",
+      "seed": 202606079501,
+      "prompt_id": "eeff9674-a115-4822-b7ad-5f676eeddca8",
+      "raw_output": {
+        "filename": "hermes_batchb_20260607_regen2_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, scannable pattern"
+      },
+      "qa_note": "regenerated second pass after visual QA"
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-entry-light-20260607-03.png",
+      "bytes": 1183543,
+      "prompt": "wall hook area with compact emergency pouch and blank cards, no writing",
+      "seed": 202606070103,
+      "prompt_id": "f8fbb7c4-1f18-4efb-8b74-0209ea162356",
+      "raw_output": {
+        "filename": "hermes_batchb_20260607_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, scannable pattern"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-entry-light-20260607-04.png",
+      "bytes": 1396591,
+      "prompt": "renter friendly hallway with plug in night light and visible safe outlet, no text",
+      "seed": 202606070104,
+      "prompt_id": "1604e81e-1bb9-4da7-afb8-058fc480a043",
+      "raw_output": {
+        "filename": "hermes_batchb_20260607_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, scannable pattern"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-entry-light-20260607-05.png",
+      "bytes": 1602559,
+      "prompt": "family checking entryway blackout kit on clean table with blank checklist",
+      "seed": 202606070105,
+      "prompt_id": "1c537bd1-9b06-41b0-9456-fe33e5a0d741",
+      "raw_output": {
+        "filename": "hermes_batchb_20260607_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, child face closeup, scannable pattern"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260607-interiornote-contact-sheet-final2.jpg",
+  "visual_qa": "final2 visual QA pass after replacing flame/lantern-like images",
+  "adsense_readiness": "source-backed practical guide, 8 citations, internal link, FAQ/schema, no affiliate filler, GTI13 provenance committed"
+}
