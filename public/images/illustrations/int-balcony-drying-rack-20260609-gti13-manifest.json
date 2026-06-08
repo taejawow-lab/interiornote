@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-09",
+  "site": "interiornote",
+  "slug": "balcony-drying-rack-renter-heat-shade-layout-2026",
+  "endpoint": "http://192.168.50.29:8188",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public\\images\\illustrations\\int-balcony-drying-rack-20260609-hero.png",
+      "bytes": 1989390,
+      "prompt": "small apartment balcony with foldable drying rack in shaded airflow, no text no logos",
+      "seed": 202606090100,
+      "prompt_id": "2d184260-67f9-4ded-a909-e64b9796a12e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260609_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public\\images\\illustrations\\int-balcony-drying-rack-20260609-01.png",
+      "bytes": 2084953,
+      "prompt": "renter balcony laundry setup kept below railing with plants and shade, no signs",
+      "seed": 202606090101,
+      "prompt_id": "f644b30f-1bc3-443d-b2df-fb57c629eb04",
+      "raw_output": {
+        "filename": "hermes_batchb_20260609_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public\\images\\illustrations\\int-balcony-drying-rack-20260609-02.png",
+      "bytes": 1666877,
+      "prompt": "indoor transition area with laundry basket and clear walking path, no writing",
+      "seed": 202606090102,
+      "prompt_id": "01bfe13b-2ad5-414b-b238-6c13d868bf6b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260609_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public\\images\\illustrations\\int-balcony-drying-rack-20260609-03.png",
+      "bytes": 1809647,
+      "prompt": "sun shade and airflow around drying rack without blocked exit, calm apartment scene",
+      "seed": 202606090103,
+      "prompt_id": "ba251b53-8237-49b6-b910-5bf72031dc0e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260609_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public\\images\\illustrations\\int-balcony-drying-rack-20260609-04.png",
+      "bytes": 1528817,
+      "prompt": "moisture aware laundry corner with fan on blank table and open space, no labels",
+      "seed": 202606090104,
+      "prompt_id": "d99c1ac5-7d93-4cf0-a1d0-d763279bc398",
+      "raw_output": {
+        "filename": "hermes_batchb_20260609_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public\\images\\illustrations\\int-balcony-drying-rack-20260609-05.png",
+      "bytes": 1926667,
+      "prompt": "evening balcony rack folded and stored safely, no readable objects",
+      "seed": 202606090105,
+      "prompt_id": "f344ef38-2d97-4c75-a01c-6da8f1606fe7",
+      "raw_output": {
+        "filename": "hermes_batchb_20260609_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup"
+      }
+    }
+  ],
+  "contact_sheet": "\\\\wsl.localhost\\Ubuntu\\home\\taekm33\\blog-ops\\16-sites\\reports\\batch-b-20260609-interiornote-contact-sheet.jpg",
+  "visual_qa": "PASS: balcony/laundry/renter layout mostly matches; no readable text/logos; no unsafe blocked exit; one folded/storage support image is acceptable as supplemental.",
+  "adsense_readiness": "source-backed practical guide, 8 citations, internal links, FAQ/schema, no affiliate filler, GTI13 provenance committed"
+}
