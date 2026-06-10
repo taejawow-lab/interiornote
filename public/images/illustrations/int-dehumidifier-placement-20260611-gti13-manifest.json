@@ -1,0 +1,82 @@
+{
+  "site": "interiornote",
+  "slug": "renter-dehumidifier-placement-closet-bathroom-2026",
+  "date": "2026-06-11",
+  "assets": [
+    {
+      "filename": "int-dehumidifier-placement-20260611-hero.png",
+      "render_url": "/images/illustrations/int-dehumidifier-placement-20260611-hero.png",
+      "prompt": "small apartment dehumidifier in open hallway near bathroom door with clear airflow, no text",
+      "seed": 6110100,
+      "prompt_id": "13235d69-73e1-4136-a8bb-3c9a552c6234",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "width": 1536,
+      "height": 864,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2,
+      "host": "gti13-direct-comfyui-redacted"
+    },
+    {
+      "filename": "int-dehumidifier-placement-20260611-01.png",
+      "render_url": "/images/illustrations/int-dehumidifier-placement-20260611-01.png",
+      "prompt": "closet with open door clothes spaced out and portable humidity control nearby no labels",
+      "seed": 6110101,
+      "prompt_id": "fed35426-1bb0-40bf-ab56-967f3c29799f",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "width": 1536,
+      "height": 864,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2,
+      "host": "gti13-direct-comfyui-redacted"
+    },
+    {
+      "filename": "int-dehumidifier-placement-20260611-02.png",
+      "render_url": "/images/illustrations/int-dehumidifier-placement-20260611-02.png",
+      "prompt": "bathroom after shower with fan vent and towel drying neatly no readable text",
+      "seed": 6110102,
+      "prompt_id": "873d9e42-62d1-4e93-ad21-dbdac9d5ac16",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "width": 1536,
+      "height": 864,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2,
+      "host": "gti13-direct-comfyui-redacted"
+    },
+    {
+      "filename": "int-dehumidifier-placement-20260611-03.png",
+      "render_url": "/images/illustrations/int-dehumidifier-placement-20260611-03.png",
+      "prompt": "renter safe cord path along wall away from water, blank outlet no labels",
+      "seed": 6110103,
+      "prompt_id": "c035fbdc-7807-4c1a-b0b2-4e0b83eb90be",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "width": 1536,
+      "height": 864,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2,
+      "host": "gti13-direct-comfyui-redacted"
+    },
+    {
+      "filename": "int-dehumidifier-placement-20260611-04.png",
+      "render_url": "/images/illustrations/int-dehumidifier-placement-20260611-04.png",
+      "prompt": "simple moisture inspection scene with plain bins and open closet shelves no writing",
+      "seed": 6110104,
+      "prompt_id": "50595fa3-4e9d-4489-9a16-e8aa15c08703",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "width": 1536,
+      "height": 864,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2,
+      "host": "gti13-direct-comfyui-redacted"
+    }
+  ]
+}
