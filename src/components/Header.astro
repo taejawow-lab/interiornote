@@ -1,73 +1,12 @@
 ---
-import ThemeToggle from './ThemeToggle.astro';
-
-const siteName = import.meta.env.PUBLIC_SITE_NAME || 'yookahplus';
-const edition = import.meta.env.PUBLIC_SITE_EDITION || '';
-
+const siteName = import.meta.env.PUBLIC_SITE_NAME || 'interiornote';
 const navItems = [
-  { label: 'Posts', href: '/posts/' },
-  { label: 'Categories', href: '/categories/' },
+  { label: 'Small Spaces', href: '/category/small-spaces/' },
+  { label: 'Interior Design', href: '/category/interior-design/' },
+  { label: 'Archive', href: '/posts/' },
   { label: 'Search', href: '/search/' },
-  { label: 'About', href: '/about' },
-  { label: 'Editorial', href: '/editorial-process' },
+  { label: 'Newsletter', href: '/newsletter/' },
 ];
+const mark = '<svg class="mark" viewBox="0 0 36 36" fill="none" aria-hidden="true"><rect x="2.5" y="2.5" width="31" height="31" rx="7.5" fill="#EDE6D6"/><path d="M20.5 3 H33 V16.5 H20.5 Z" fill="#5E7261" opacity=".24"/><rect x="2.5" y="2.5" width="31" height="31" rx="7.5" stroke="#1C2A22" stroke-width="2"/><path d="M20.5 3 V16.5 H33" stroke="#1C2A22" stroke-width="2" stroke-linejoin="round"/><path d="M6.5 22 a9.5 9.5 0 0 0 9 9.3" stroke="#1C2A22" stroke-width="1.7" fill="none" stroke-linecap="round"/><circle cx="26.7" cy="9.6" r="1.8" fill="#1C2A22"/></svg>';
 ---
-
-<!-- modern editorial header: token-driven, mobile discoverable, no client JS -->
-<header class="sticky top-0 z-50 backdrop-blur-xl bg-background/90 border-b border-border/70 shadow-[0_1px_0_rgba(15,23,42,0.03)]">
-  {edition && (
-    <div class="border-b border-border/50 bg-muted/25">
-      <div class="container mx-auto px-4 sm:px-6 md:px-10 min-h-8 flex items-center justify-between gap-3 text-[10px] uppercase tracking-[0.22em] text-muted-foreground font-mono">
-        <span class="truncate">{edition}</span>
-        <span class="hidden sm:inline">A data-grounded publication</span>
-      </div>
-    </div>
-  )}
-
-  <div class="container mx-auto px-4 sm:px-6 md:px-10 min-h-[68px] md:min-h-20 flex items-center justify-between gap-4">
-    <a href="/" class="group flex min-w-0 items-center gap-3 rounded-md py-2 focus-visible:outline-ring" aria-label={`${siteName} home`}>
-      <span class="inline-flex h-9 w-9 shrink-0 items-center justify-center rounded-2xl bg-primary text-primary-foreground shadow-sm ring-1 ring-border/30" aria-hidden="true">
-        <span class="text-sm font-bold" style="font-family: var(--font-display);">{siteName.slice(0, 1).toUpperCase()}</span>
-      </span>
-      <span
-        class="truncate text-2xl md:text-3xl font-bold tracking-[-0.025em] leading-none transition-colors group-hover:text-primary"
-        style="font-family: var(--font-display);"
-      >
-        {siteName}
-      </span>
-    </a>
-
-    <div class="flex items-center gap-3 md:gap-6">
-      <nav aria-label="Primary navigation" class="hidden md:block">
-        <ul class="flex items-center gap-1 text-xs lg:text-sm uppercase tracking-[0.12em]">
-          {navItems.map((item) => (
-            <li>
-              <a
-                href={item.href}
-                class="rounded-full px-3 py-2 text-foreground/72 hover:bg-muted hover:text-foreground focus-visible:outline-ring transition-colors"
-              >
-                {item.label}
-              </a>
-            </li>
-          ))}
-        </ul>
-      </nav>
-      <a href="/search/" class="hidden sm:inline-flex md:hidden min-h-10 items-center rounded-full border border-border bg-card px-4 text-xs font-semibold uppercase tracking-[0.12em] text-foreground/80 shadow-sm">
-        Search
-      </a>
-      <ThemeToggle />
-    </div>
-  </div>
-
-  <nav aria-label="Mobile primary navigation" class="md:hidden border-t border-border/55 bg-background/95">
-    <ul class="container mx-auto flex gap-2 overflow-x-auto px-4 py-2 text-[11px] font-semibold uppercase tracking-[0.12em] [-webkit-overflow-scrolling:touch]">
-      {navItems.map((item) => (
-        <li class="shrink-0">
-          <a href={item.href} class="inline-flex min-h-10 items-center rounded-full border border-border/70 bg-card px-4 text-foreground/75 shadow-sm transition-colors hover:bg-muted hover:text-foreground focus-visible:outline-ring">
-            {item.label}
-          </a>
-        </li>
-      ))}
-    </ul>
-  </nav>
-</header>
+<header class="site-header"><div class="wrap-wide nav"><a class="brand" href="/" aria-label={`${siteName} home`}><Fragment set:html={mark} /><span class="wordmark">interior<b>note</b></span></a><nav class="nav-links" aria-label="Primary navigation">{navItems.map((item) => <a href={item.href}>{item.label}</a>)}</nav><div class="nav-right"><a class="icon-btn" href="/search/" aria-label="Search Interior Note"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg></a><a class="icon-btn" href="/saved/" aria-label="Saved notes"><svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="2"><path d="M19 21 12 17 5 21V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"/></svg><span class="count" data-save-count>0</span></a><a class="btn btn-primary" href="/newsletter/">Get room notes</a><button class="icon-btn nav-toggle" type="button" aria-label="Open menu" aria-expanded="false"><svg viewBox="0 0 24 24" width="22" height="22" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 7h16M4 12h16M4 17h16"/></svg></button></div></div></header><nav class="mobile-menu" aria-label="Mobile primary navigation">{navItems.map((item) => <a href={item.href}>{item.label}</a>)}<a href="/saved/">Saved notes <span data-save-count class="count">0</span></a></nav>
