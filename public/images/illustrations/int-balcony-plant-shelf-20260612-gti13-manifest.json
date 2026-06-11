@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-12",
+  "site": "interiornote",
+  "slug": "balcony-plant-shelf-wind-safety-rental-2026",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-balcony-plant-shelf-20260612-hero.png",
+      "bytes": 2086231,
+      "prompt": "small apartment balcony floor with low freestanding two tier plant stand on rubber feet, inside railing, no wall brackets, no hanging pots, plain unlabeled pots",
+      "seed": 202606129100,
+      "prompt_id": "072bb00c-0627-49dc-81a7-e6810c96b2e4",
+      "raw_output": {
+        "filename": "hermes_batchb_20260612_regen_interiornote_hero_00002_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 4.8,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, license plate, dashboard, form, receipt, invoice, calendar grid, handwriting, printed document, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, blurry, low resolution, generic stock art, placeholder"
+      },
+      "regenerated": true
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-balcony-plant-shelf-20260612-01.png",
+      "bytes": 2039999,
+      "prompt": "terracotta herb pots on low stable shelf with no tags and no writing, heavy pots lower, blank clay surfaces only",
+      "seed": 202606129101,
+      "prompt_id": "4dd3ee31-7435-4348-9f47-b35823d2e5cc",
+      "raw_output": {
+        "filename": "hermes_batchb_20260612_regen_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 4.8,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, license plate, dashboard, form, receipt, invoice, calendar grid, handwriting, printed document, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, blurry, low resolution, generic stock art, placeholder"
+      },
+      "regenerated": true
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-balcony-plant-shelf-20260612-02.png",
+      "bytes": 2413036,
+      "prompt": "watering tray setup with clear drainage saucers and towel, no puddles, no text",
+      "seed": 202606120102,
+      "prompt_id": "19c3862f-fda4-411e-bf8e-637a34fb28d6",
+      "raw_output": {
+        "filename": "hermes_batchb_20260612_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, receipt, form, invoice, login screen, calendar grid"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-balcony-plant-shelf-20260612-03.png",
+      "bytes": 1993629,
+      "prompt": "windy balcony preparation with plants moved inward and soft ties without readable labels",
+      "seed": 202606120103,
+      "prompt_id": "4c17223a-960f-4fcc-b962-215517ff7fed",
+      "raw_output": {
+        "filename": "hermes_batchb_20260612_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, receipt, form, invoice, login screen, calendar grid"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-balcony-plant-shelf-20260612-04.png",
+      "bytes": 2363045,
+      "prompt": "renter friendly balcony corner with low freestanding bench plant stand on the floor, all pots inside railing, no hanging planter, no rail load, clear walkway",
+      "seed": 202606129101,
+      "prompt_id": "bd7d30ec-3d84-492c-9161-d3a581d1dc0f",
+      "raw_output": {
+        "filename": "hermes_batchb_20260612_regen_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 4.8,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, license plate, dashboard, form, receipt, invoice, calendar grid, handwriting, printed document, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, blurry, low resolution, generic stock art, placeholder"
+      },
+      "regenerated": true
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-balcony-plant-shelf-20260612-05.png",
+      "bytes": 1726210,
+      "prompt": "maintenance still life with gloves, small watering can, blank cards, no printed text",
+      "seed": 202606120105,
+      "prompt_id": "4d90bd85-5ca2-4fb4-89d0-69edb783d297",
+      "raw_output": {
+        "filename": "hermes_batchb_20260612_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, receipt, form, invoice, login screen, calendar grid"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260612-interiornote-final-contact-sheet.jpg",
+  "visual_qa": "passed parent visual contact-sheet inspection after regeneration where needed; retained 6 GTI13 raster images with no readable text/logos/screens or safety-blocking defects",
+  "adsense_readiness": "source-backed practical guide, 8 citations, internal links, FAQ/schema, no affiliate filler, GTI13 provenance committed"
+}
