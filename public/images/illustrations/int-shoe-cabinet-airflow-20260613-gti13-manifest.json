@@ -1,0 +1,203 @@
+{
+  "date": "2026-06-13",
+  "site": "interiornote",
+  "slug": "micro-entry-shoe-cabinet-odor-airflow-summer-2026",
+  "host": "gti13",
+  "endpoint": "direct-gti13-comfyui-redacted",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-shoe-cabinet-airflow-20260613-hero.png",
+      "url": "/images/illustrations/int-shoe-cabinet-airflow-20260613-hero.png",
+      "bytes": 1508058,
+      "width": 1536,
+      "height": 864,
+      "prompt": "tiny apartment entry with low shoe cabinet, clear door swing, ventilated shelves, no text no logos",
+      "seed": 202606130100,
+      "prompt_id": "1c89f3c1-fb01-4eb4-bdef-ae8c89a7233e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260613_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, readable calendar, forms, receipts, documents, child face closeup, license plate, brand marks"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-shoe-cabinet-airflow-20260613-01.png",
+      "url": "/images/illustrations/int-shoe-cabinet-airflow-20260613-01.png",
+      "bytes": 1573961,
+      "width": 1536,
+      "height": 864,
+      "prompt": "open shoe cabinet with spaced shoes and blank moisture absorber, no labels no writing",
+      "seed": 202606130101,
+      "prompt_id": "73ac0862-b80a-44ab-ba30-a043b814ef3b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260613_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, readable calendar, forms, receipts, documents, child face closeup, license plate, brand marks"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-shoe-cabinet-airflow-20260613-02.png",
+      "url": "/images/illustrations/int-shoe-cabinet-airflow-20260613-02.png",
+      "bytes": 1530215,
+      "width": 1536,
+      "height": 864,
+      "prompt": "person placing wet shoes on tray away from cabinet in clean entry, no text",
+      "seed": 202606130102,
+      "prompt_id": "d14e314a-b93b-4aa5-99ae-f8f673f57725",
+      "raw_output": {
+        "filename": "hermes_batchb_20260613_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, readable calendar, forms, receipts, documents, child face closeup, license plate, brand marks"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-shoe-cabinet-airflow-20260613-03.png",
+      "url": "/images/illustrations/int-shoe-cabinet-airflow-20260613-03.png",
+      "bytes": 1456542,
+      "width": 1536,
+      "height": 864,
+      "prompt": "small entry bench and shoe storage with clear walking path, no readable objects",
+      "seed": 202606130103,
+      "prompt_id": "ccc014c4-962e-4025-a6fc-cfe1f451b11e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260613_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, readable calendar, forms, receipts, documents, child face closeup, license plate, brand marks"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-shoe-cabinet-airflow-20260613-04.png",
+      "url": "/images/illustrations/int-shoe-cabinet-airflow-20260613-04.png",
+      "bytes": 1773123,
+      "width": 1536,
+      "height": 864,
+      "prompt": "summer cleaning scene wiping shoe shelf with plain cloth and blank basket, no text",
+      "seed": 202606130104,
+      "prompt_id": "c0499ad7-e438-4c1b-b040-b92d196a5cfa",
+      "raw_output": {
+        "filename": "hermes_batchb_20260613_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, readable calendar, forms, receipts, documents, child face closeup, license plate, brand marks"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-shoe-cabinet-airflow-20260613-05.png",
+      "url": "/images/illustrations/int-shoe-cabinet-airflow-20260613-05.png",
+      "bytes": 1390300,
+      "width": 1536,
+      "height": 864,
+      "prompt": "evening entryway with cabinet closed, key tray blank, door path unobstructed, no logos",
+      "seed": 202606130105,
+      "prompt_id": "c5f964cf-00e8-499d-ac66-178133dd4882",
+      "raw_output": {
+        "filename": "hermes_batchb_20260613_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, readable calendar, forms, receipts, documents, child face closeup, license plate, brand marks"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260613-interiornote-contact-sheet.jpg",
+  "visual_qa": "pending human/vision contact sheet review",
+  "source_validation": [
+    {
+      "url": "https://www.epa.gov/indoor-air-quality-iaq/introduction-indoor-air-quality",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.epa.gov/mold",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.cdc.gov/mold-health/about/index.html",
+      "ok": false,
+      "error": "URLError(OSError(101, 'Network is unreachable'))",
+      "caveat": "script-client check failed; source kept only if authoritative"
+    },
+    {
+      "url": "https://www.usa.gov/tenant-rights",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.usfa.fema.gov/prevention/home-fires/",
+      "status": 200,
+      "ok": true
+    },
+    {
+      "url": "https://www.cdc.gov/falls/prevention/index.html",
+      "ok": false,
+      "error": "URLError(OSError(101, 'Network is unreachable'))",
+      "caveat": "script-client check failed; source kept only if authoritative"
+    },
+    {
+      "url": "https://www.cdc.gov/hygiene/about/cleaning-and-sanitizing.html",
+      "ok": false,
+      "error": "URLError(OSError(101, 'Network is unreachable'))",
+      "caveat": "script-client check failed; source kept only if authoritative"
+    },
+    {
+      "url": "https://www.cdc.gov/heat-health/about/index.html",
+      "status": 200,
+      "ok": true
+    }
+  ],
+  "adsense_readiness": "8 sources, internal links, FAQ/schema, no affiliate filler, helpful-content practical workflow"
+}
