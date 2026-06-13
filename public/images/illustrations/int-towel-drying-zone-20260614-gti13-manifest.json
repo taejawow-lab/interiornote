@@ -1,0 +1,158 @@
+{
+  "date": "2026-06-14",
+  "site": "interiornote",
+  "slug": "small-bathroom-towel-drying-zone-summer-ventilation-2026",
+  "endpoint": "GTI13 direct ComfyUI (redacted in user reports)",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-towel-drying-zone-20260614-hero.png",
+      "url": "/images/illustrations/int-towel-drying-zone-20260614-hero.png",
+      "bytes": 1465658,
+      "prompt": "small apartment bathroom with towels spaced on hooks and clear ventilation path, no text no labels",
+      "seed": 202606140100,
+      "prompt_id": "b7f66dfd-4d97-45f8-8a27-452c73579dfe",
+      "raw_output": {
+        "filename": "hermes_batchb_20260614_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, unsafe food handling, medical device details, scannable pattern, child face closeup, car dashboard text, license plate"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-towel-drying-zone-20260614-01.png",
+      "url": "/images/illustrations/int-towel-drying-zone-20260614-01.png",
+      "bytes": 1458304,
+      "prompt": "renter friendly towel rail and open door airflow, tidy neutral bathroom no writing",
+      "seed": 202606140101,
+      "prompt_id": "76be5cf5-a023-44ee-9aa8-c5c0d0461adc",
+      "raw_output": {
+        "filename": "hermes_batchb_20260614_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, unsafe food handling, medical device details, scannable pattern, child face closeup, car dashboard text, license plate"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-towel-drying-zone-20260614-02.png",
+      "url": "/images/illustrations/int-towel-drying-zone-20260614-02.png",
+      "bytes": 1586362,
+      "prompt": "laundry basket outside bathroom with dry towel rotation, blank labels no text",
+      "seed": 202606140102,
+      "prompt_id": "3fd89346-4315-449d-99c2-7966947414bb",
+      "raw_output": {
+        "filename": "hermes_batchb_20260614_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, unsafe food handling, medical device details, scannable pattern, child face closeup, car dashboard text, license plate"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-towel-drying-zone-20260614-03.png",
+      "url": "/images/illustrations/int-towel-drying-zone-20260614-03.png",
+      "bytes": 1404679,
+      "prompt": "bathroom fan and window area shown safely without readable switch labels",
+      "seed": 202606140103,
+      "prompt_id": "25361856-13f7-4fdc-a6db-b4a8bd0e2424",
+      "raw_output": {
+        "filename": "hermes_batchb_20260614_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, unsafe food handling, medical device details, scannable pattern, child face closeup, car dashboard text, license plate"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-towel-drying-zone-20260614-04.png",
+      "url": "/images/illustrations/int-towel-drying-zone-20260614-04.png",
+      "bytes": 1603908,
+      "prompt": "summer towel drying zone with folded spare towels and clear floor, no logos",
+      "seed": 202606140104,
+      "prompt_id": "3c0e11d5-80e8-4ef9-bb61-2a8ae79e2b2d",
+      "raw_output": {
+        "filename": "hermes_batchb_20260614_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, unsafe food handling, medical device details, scannable pattern, child face closeup, car dashboard text, license plate"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-towel-drying-zone-20260614-05.png",
+      "url": "/images/illustrations/int-towel-drying-zone-20260614-05.png",
+      "bytes": 1458827,
+      "prompt": "evening bathroom reset with towels hung apart and dry surfaces, no text",
+      "seed": 202606140105,
+      "prompt_id": "648f8336-4ac2-447a-b1bc-9af89662b1fb",
+      "raw_output": {
+        "filename": "hermes_batchb_20260614_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, unsafe food handling, medical device details, scannable pattern, child face closeup, car dashboard text, license plate"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260614-interiornote-contact-sheet.jpg",
+  "visual_qa": "passed final contact sheet QA: topic-accurate, no readable text/logos/UI requiring rejection",
+  "adsense_readiness": "source-backed practical guide, 8 sources, internal links, FAQ/schema, no affiliate filler, 6 GTI13 raster images"
+}
