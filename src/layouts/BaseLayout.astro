@@ -124,7 +124,7 @@ const finalSchema = schema || defaultSchema;
       <>
         <script async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`} />
         <script
-          set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}gtag('js',new Date());gtag('config','${ga4Id}',{send_page_view:false,cookie_domain:'interiornote.org'});gtag('event','page_view',{page_title:document.title,page_location:window.location.href,page_path:window.location.pathname});`}
+          set:html={`window.dataLayer=window.dataLayer||[];function gtag(){dataLayer.push(arguments)}const ga4DebugMode=new URLSearchParams(window.location.search).get('ga4_debug')==='1';const ga4Params={send_page_view:false,cookie_domain:'interiornote.org',...(ga4DebugMode?{debug_mode:true}:{})};const ga4PageView={page_title:document.title,page_location:window.location.href,page_path:window.location.pathname,...(ga4DebugMode?{debug_mode:true}:{})};gtag('js',new Date());gtag('config','${ga4Id}',ga4Params);gtag('event','page_view',ga4PageView);`}
         />
       </>
     )}
