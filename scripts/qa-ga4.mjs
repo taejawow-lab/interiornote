@@ -1,8 +1,8 @@
 import { readFileSync, existsSync } from 'node:fs';
 import { join } from 'node:path';
 
-const expected = process.env.EXPECTED_GA4_ID || 'G-TONJ28302B';
-const wrong = process.env.WRONG_GA4_ID || 'G-T0NJ28302B';
+const expected = process.env.EXPECTED_GA4_ID || 'G-T0NJ28302B';
+const wrong = process.env.WRONG_GA4_ID || 'G-TONJ28302B';
 const htmlPath = join(process.cwd(), 'dist', 'index.html');
 
 if (!existsSync(htmlPath)) {
