@@ -1,0 +1,146 @@
+{
+  "site": "interiornote",
+  "slug": "renter-hallway-night-light-trip-safe-layout-2026",
+  "date": "2026-06-16",
+  "generator": "GTI13 direct ComfyUI",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-hallway-night-light-20260616-hero.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1561174,
+      "prompt": "small apartment hallway at night with warm low plug-in light and clear walking path, no cords across floor, no text",
+      "negative": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, credentials, login screen, currency, forms, receipts, calendar grid, child face closeup",
+      "seed": 202606160100,
+      "prompt_id": "2e988b48-9ee1-4247-8043-cff148dfd753",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "cfg": 5.0,
+      "steps": 28,
+      "endpoint_host": "gti13 direct ComfyUI",
+      "raw_output": {
+        "filename": "hermes_batchb_20260616_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-hallway-night-light-20260616-01.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1672001,
+      "prompt": "entryway shoe bench with low motion night light and tidy rug edge, blank walls no signs",
+      "negative": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, credentials, login screen, currency, forms, receipts, calendar grid, child face closeup",
+      "seed": 202606160101,
+      "prompt_id": "652602b8-f906-4934-a982-d1353af8d8e2",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "cfg": 5.0,
+      "steps": 28,
+      "endpoint_host": "gti13 direct ComfyUI",
+      "raw_output": {
+        "filename": "hermes_batchb_20260616_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-hallway-night-light-20260616-02.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1473776,
+      "prompt": "bedside to bathroom route with soft floor-level lighting, no readable objects",
+      "negative": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, credentials, login screen, currency, forms, receipts, calendar grid, child face closeup",
+      "seed": 202606160102,
+      "prompt_id": "5eff0acf-5b10-4a80-838a-9aca833d0396",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "cfg": 5.0,
+      "steps": 28,
+      "endpoint_host": "gti13 direct ComfyUI",
+      "raw_output": {
+        "filename": "hermes_batchb_20260616_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-hallway-night-light-20260616-03.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1158307,
+      "prompt": "renter safe plug-in night light with very short cord secured along wall base, no cord across walking path, blank outlet, no text",
+      "negative": "text, words, letters, numbers, watermark, logo, brand, readable labels, screen text, fake ui, QR code, barcode, keypad digits, exposed wiring, unsafe knife, blade at table edge, raw meat, forms, documents with writing, calendar, blurry, distorted, clutter",
+      "seed": 202606169002,
+      "prompt_id": "140eec89-d473-4a15-96d9-e4c5d5cd4b71",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "cfg": 4.6,
+      "steps": 30,
+      "endpoint_host": "gti13 direct ComfyUI",
+      "raw_output": {
+        "filename": "hermes_batchb_20260616_regen_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "qa_regenerated_final": true
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-hallway-night-light-20260616-04.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1895722,
+      "prompt": "emergency flashlight and slip-resistant slippers on plain tray by door, no writing",
+      "negative": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, credentials, login screen, currency, forms, receipts, calendar grid, child face closeup",
+      "seed": 202606160104,
+      "prompt_id": "4f142e6e-b4cd-4db7-ae77-9817a9d699ab",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "cfg": 5.0,
+      "steps": 28,
+      "endpoint_host": "gti13 direct ComfyUI",
+      "raw_output": {
+        "filename": "hermes_batchb_20260616_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-hallway-night-light-20260616-05.png",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1526270,
+      "prompt": "daytime layout view of narrow hallway with furniture pulled back and warm accent light, no text",
+      "negative": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, credentials, login screen, currency, forms, receipts, calendar grid, child face closeup",
+      "seed": 202606160105,
+      "prompt_id": "3501f976-94d2-4a68-825b-d79c9e8e9227",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "cfg": 5.0,
+      "steps": 28,
+      "endpoint_host": "gti13 direct ComfyUI",
+      "raw_output": {
+        "filename": "hermes_batchb_20260616_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    }
+  ]
+}
