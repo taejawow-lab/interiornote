@@ -1,0 +1,118 @@
+{
+  "site": "interiornote",
+  "slug": "renter-window-ac-cord-drip-clearance-layout-2026",
+  "date": "2026-06-18",
+  "assets": [
+    {
+      "filename": "int-window-ac-20260618-hero.png",
+      "path": "public/images/illustrations/int-window-ac-20260618-hero.png",
+      "url": "/images/illustrations/int-window-ac-20260618-hero.png",
+      "prompt": "renter apartment window air conditioner installed neatly with clear floor path and no visible labels, cord safely routed, no text",
+      "seed": 618100,
+      "prompt_id": "d9b72b23-2902-4ea1-8246-0d90c679e3ef",
+      "width": 1536,
+      "height": 864,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "endpoint_host": "gti13 direct ComfyUI",
+      "comfy_meta": {
+        "filename": "int-window-ac-20260618-hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "int-window-ac-20260618-01.png",
+      "path": "public/images/illustrations/int-window-ac-20260618-01.png",
+      "url": "/images/illustrations/int-window-ac-20260618-01.png",
+      "prompt": "safe renter wall outlet with one heavy appliance cord routed along wall using plain cord cover, no loose loops, no labels, no text, uncluttered apartment floor",
+      "seed": 718000,
+      "prompt_id": "6346468a-c477-4b86-a752-ae2ebf120d0e",
+      "width": 1536,
+      "height": 864,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "endpoint_host": "gti13 direct ComfyUI",
+      "comfy_meta": {
+        "filename": "int-window-ac-20260618-01-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated": true
+    },
+    {
+      "filename": "int-window-ac-20260618-02.png",
+      "path": "public/images/illustrations/int-window-ac-20260618-02.png",
+      "url": "/images/illustrations/int-window-ac-20260618-02.png",
+      "prompt": "condensation-aware window sill with simple tray and towel nearby, no water damage, no text",
+      "seed": 618102,
+      "prompt_id": "9649406e-4319-4c73-9dbd-9a0e32b1f665",
+      "width": 1536,
+      "height": 864,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "endpoint_host": "gti13 direct ComfyUI",
+      "comfy_meta": {
+        "filename": "int-window-ac-20260618-02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "int-window-ac-20260618-03.png",
+      "path": "public/images/illustrations/int-window-ac-20260618-03.png",
+      "url": "/images/illustrations/int-window-ac-20260618-03.png",
+      "prompt": "small room layout with sofa away from AC airflow and clear escape path, no signs",
+      "seed": 618103,
+      "prompt_id": "9950884c-da5e-4d89-a99d-94037265449d",
+      "width": 1536,
+      "height": 864,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "endpoint_host": "gti13 direct ComfyUI",
+      "comfy_meta": {
+        "filename": "int-window-ac-20260618-03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "int-window-ac-20260618-04.png",
+      "path": "public/images/illustrations/int-window-ac-20260618-04.png",
+      "url": "/images/illustrations/int-window-ac-20260618-04.png",
+      "prompt": "person checking window AC side clearance with plain tape measure turned away no numbers visible",
+      "seed": 618104,
+      "prompt_id": "f301b8b2-80ca-45f5-8378-3ff93ad8f4ce",
+      "width": 1536,
+      "height": 864,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "endpoint_host": "gti13 direct ComfyUI",
+      "comfy_meta": {
+        "filename": "int-window-ac-20260618-04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "int-window-ac-20260618-05.png",
+      "path": "public/images/illustrations/int-window-ac-20260618-05.png",
+      "url": "/images/illustrations/int-window-ac-20260618-05.png",
+      "prompt": "renter room with window air conditioner, clear walkway, curtains away from unit, furniture spaced safely, no text no labels",
+      "seed": 718001,
+      "prompt_id": "537d2c5a-1d75-46bb-a2dd-16ed9d382808",
+      "width": 1536,
+      "height": 864,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "endpoint_host": "gti13 direct ComfyUI",
+      "comfy_meta": {
+        "filename": "int-window-ac-20260618-05-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated": true
+    }
+  ],
+  "gate_reason": "sentinel_unreachable_but_direct_comfyui_ok",
+  "endpoint_host": "gti13 direct ComfyUI",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "final_visual_qa": "regenerated targeted rejected images; final contact sheet required"
+}
