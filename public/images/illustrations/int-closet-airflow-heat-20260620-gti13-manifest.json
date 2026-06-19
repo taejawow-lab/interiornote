@@ -1,0 +1,152 @@
+{
+  "date": "2026-06-20",
+  "site": "interiornote",
+  "slug": "renter-closet-airflow-storage-heat-wave-layout-2026",
+  "endpoint_host": "gti13 direct ComfyUI (internal endpoint redacted in report)",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-closet-airflow-heat-20260620-hero.png",
+      "bytes": 1325200,
+      "prompt": "small apartment closet with spaced hangers and open airflow gaps, no text no labels",
+      "seed": 202606200100,
+      "prompt_id": "a1db286f-78ac-4b4c-bde0-372058121e2e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260620_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.1,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, scannable pattern, child face closeup, calendar grid, forms, receipts, documents with text, visible buttons with numbers"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-closet-airflow-heat-20260620-01.png",
+      "bytes": 1818798,
+      "prompt": "renter arranging closet shelves with fabric bins and clear floor path, no logos",
+      "seed": 202606200101,
+      "prompt_id": "7130daed-fbf9-457e-943e-cd92437e656f",
+      "raw_output": {
+        "filename": "hermes_batchb_20260620_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.1,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, scannable pattern, child face closeup, calendar grid, forms, receipts, documents with text, visible buttons with numbers"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-closet-airflow-heat-20260620-02.png",
+      "bytes": 1422565,
+      "prompt": "close view of closet door slightly open and portable fan outside, blank controls",
+      "seed": 202606200102,
+      "prompt_id": "c7efaf71-af99-4439-afeb-215b7ddcc574",
+      "raw_output": {
+        "filename": "hermes_batchb_20260620_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.1,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, scannable pattern, child face closeup, calendar grid, forms, receipts, documents with text, visible buttons with numbers"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-closet-airflow-heat-20260620-03.png",
+      "bytes": 1518179,
+      "prompt": "summer clothing storage with breathable bags and no plastic clutter, no text",
+      "seed": 202606200103,
+      "prompt_id": "1feac41f-7f46-4923-9d27-f681a37b267e",
+      "raw_output": {
+        "filename": "hermes_batchb_20260620_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.1,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, scannable pattern, child face closeup, calendar grid, forms, receipts, documents with text, visible buttons with numbers"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-closet-airflow-heat-20260620-04.png",
+      "bytes": 1290975,
+      "prompt": "checking closet corner for moisture with plain flashlight, no labels",
+      "seed": 202606200104,
+      "prompt_id": "34a1cad1-23ab-411f-ab2d-f4c1b2315b7b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260620_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.1,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, scannable pattern, child face closeup, calendar grid, forms, receipts, documents with text, visible buttons with numbers"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-closet-airflow-heat-20260620-05.png",
+      "bytes": 1604673,
+      "prompt": "folded linens on open shelf with airflow and calm neutral apartment style",
+      "seed": 202606200105,
+      "prompt_id": "52e510ed-b68a-4e47-9f8d-a54cc0d57b1b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260620_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.1,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, scannable pattern, child face closeup, calendar grid, forms, receipts, documents with text, visible buttons with numbers"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260620-interiornote-contact-sheet.jpg",
+  "windows_contact_sheet": "/mnt/c/Users/k8plus/AppData/Local/hermes/scripts/batch-b-20260620-interiornote-contact-sheet.jpg",
+  "visual_qa": "PASS: contact sheet inspected; 6/6 topic-accurate closet airflow/storage images, no readable text/UI/logos, no unsafe scene.",
+  "adsense_readiness": "source-backed practical guide, 8 citations, internal links, FAQ/schema, no affiliate filler"
+}
