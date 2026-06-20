@@ -1,0 +1,155 @@
+{
+  "date": "2026-06-21",
+  "site": "interiornote",
+  "slug": "small-apartment-paper-recycling-station-entry-layout-2026",
+  "endpoint": "GTI13 direct ComfyUI",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-paper-recycling-entry-20260621-hero.png",
+      "bytes": 1370269,
+      "prompt": "small apartment entryway with neat paper recycling station and blank bins no text no logos",
+      "seed": 202606210100,
+      "prompt_id": "f9dde2c8-2f65-4eb4-8014-79ae6ade1b31",
+      "raw_output": {
+        "filename": "hermes_batchb_20260621_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, fake warning sign, blurry, low resolution, generic stock art, placeholder, child face closeup, currency, forms, receipts, calculator"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-paper-recycling-entry-20260621-01.png",
+      "bytes": 1816055,
+      "prompt": "plain blank envelopes in a mail sorting tray with closed shred box, no handwriting, no printed text",
+      "seed": 202606219177,
+      "prompt_id": "42e6b2d7-0c99-47f6-959b-fc078a94c7ec",
+      "raw_output": {
+        "filename": "hermes_batchb_20260621_regen_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, unsafe scene, exposed wiring, fake warning sign, blurry, low resolution, generic stock art, placeholder, child, face, people close up, clock numbers, calendar grid, forms, receipts, currency, calculator"
+      },
+      "regenerated_after_visual_qa": true
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-paper-recycling-entry-20260621-02.png",
+      "bytes": 1561570,
+      "prompt": "compact renter entry cabinet with hidden paper bin and clear walkway no labels",
+      "seed": 202606210102,
+      "prompt_id": "f0b49e8e-fa50-4aef-ad2a-17ce43aea482",
+      "raw_output": {
+        "filename": "hermes_batchb_20260621_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, fake warning sign, blurry, low resolution, generic stock art, placeholder, child face closeup, currency, forms, receipts, calculator"
+      }
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-paper-recycling-entry-20260621-03.png",
+      "bytes": 1554099,
+      "prompt": "paper storage box placed far from a closed plain wall heater, no flame, no labels, clear floor",
+      "seed": 202606219179,
+      "prompt_id": "75f5ecc5-eec0-4177-9ad4-764ec101c37a",
+      "raw_output": {
+        "filename": "hermes_batchb_20260621_regen_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, unsafe scene, exposed wiring, fake warning sign, blurry, low resolution, generic stock art, placeholder, child, face, people close up, clock numbers, calendar grid, forms, receipts, currency, calculator"
+      },
+      "regenerated_after_visual_qa": true
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-paper-recycling-entry-20260621-04.png",
+      "bytes": 1627304,
+      "prompt": "recycling station with reusable tote and blank folder dividers no writing",
+      "seed": 202606210104,
+      "prompt_id": "6cb92cb0-163b-48db-89a9-6c3f6704b687",
+      "raw_output": {
+        "filename": "hermes_batchb_20260621_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, fake warning sign, blurry, low resolution, generic stock art, placeholder, child face closeup, currency, forms, receipts, calculator"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-paper-recycling-entry-20260621-05.png",
+      "bytes": 1862696,
+      "prompt": "weekly reset scene with tidy entryway paper station and plants no labels",
+      "seed": 202606210105,
+      "prompt_id": "eb88f8f6-9096-4deb-b1d2-0df9db4f7c94",
+      "raw_output": {
+        "filename": "hermes_batchb_20260621_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, fake warning sign, blurry, low resolution, generic stock art, placeholder, child face closeup, currency, forms, receipts, calculator"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260621-interiornote-contact-sheet-final.jpg",
+  "windows_contact_sheet": "/mnt/c/Users/k8plus/AppData/Local/hermes/scripts/batch-b-20260621-interiornote-contact-sheet-final.jpg",
+  "visual_qa": "final contact sheet regenerated after rejecting unsafe/text/topic-mismatch images",
+  "adsense_readiness": "8 citations, internal links, FAQ/schema, no affiliate filler"
+}
