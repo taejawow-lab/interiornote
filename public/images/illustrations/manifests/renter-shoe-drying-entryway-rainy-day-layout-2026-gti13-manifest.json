@@ -1,0 +1,136 @@
+{
+  "site": "interiornote",
+  "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "assets": [
+    {
+      "site": "interiornote",
+      "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+      "filename": "int-shoe-drying-entry-20260622-hero.png",
+      "file": "public/images/illustrations/int-shoe-drying-entry-20260622-hero.png",
+      "alt": "Renter friendly rainy day shoe drying entryway",
+      "prompt": "premium realistic editorial photo of small apartment entryway with wet shoes on low tray, absorbent mat, clear walking path, umbrella stand, warm natural light, no readable text, no logos",
+      "seed": 202606220201,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "d9e01920-cbe5-447c-94cc-958fc97087c9",
+      "comfy_output": {
+        "filename": "hermes_batch_b_20260622_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 2082717
+    },
+    {
+      "site": "interiornote",
+      "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+      "filename": "int-shoe-drying-entry-20260622-01.png",
+      "file": "public/images/illustrations/int-shoe-drying-entry-20260622-01.png",
+      "alt": "Clear walkway shoe tray layout",
+      "prompt": "realistic apartment doorway with shoe tray tucked to side, dry floor, clear door swing, no labels, no text, no logos",
+      "seed": 202606220202,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "fd4679f9-bbb3-4deb-8da3-58b804edb006",
+      "comfy_output": {
+        "filename": "hermes_batch_b_20260622_00002_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1525763
+    },
+    {
+      "site": "interiornote",
+      "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+      "filename": "int-shoe-drying-entry-20260622-02.png",
+      "file": "public/images/illustrations/int-shoe-drying-entry-20260622-02.png",
+      "alt": "Boot drying airflow setup without heater",
+      "prompt": "realistic entry bench with shoes tilted for airflow, small fan turned away, no heater, no text, no logos",
+      "seed": 202606220203,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "be4b4c8b-d617-4e16-aaed-0737ad70338b",
+      "comfy_output": {
+        "filename": "hermes_batch_b_20260622_00003_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1469272
+    },
+    {
+      "site": "interiornote",
+      "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+      "filename": "int-shoe-drying-entry-20260622-03.png",
+      "file": "public/images/illustrations/int-shoe-drying-entry-20260622-03.png",
+      "alt": "Floor protection mat under rainy shoes",
+      "prompt": "realistic close view of waterproof tray and mat protecting wood floor, shoes unbranded, no readable text, no logos",
+      "seed": 202606220204,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "dda2304b-a9bb-4ccc-ac34-d63987f868fa",
+      "comfy_output": {
+        "filename": "hermes_batch_b_20260622_00004_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 2100134
+    },
+    {
+      "site": "interiornote",
+      "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+      "filename": "int-shoe-drying-entry-20260622-04.png",
+      "file": "public/images/illustrations/int-shoe-drying-entry-20260622-04.png",
+      "alt": "Odor control weekly reset corner",
+      "prompt": "realistic tidy entryway with washable mat, closed storage basket, umbrella drying safely, no labels, no words",
+      "seed": 202606220205,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "a06fa8a1-f520-4a64-9bf6-b8fb328b17c7",
+      "comfy_output": {
+        "filename": "hermes_batch_b_20260622_00005_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1919661
+    },
+    {
+      "site": "interiornote",
+      "slug": "renter-shoe-drying-entryway-rainy-day-layout-2026",
+      "filename": "int-shoe-drying-entry-20260622-05.png",
+      "file": "public/images/illustrations/int-shoe-drying-entry-20260622-05.png",
+      "alt": "Guest friendly rainy entry reset",
+      "prompt": "realistic small apartment entry at evening with shoes drying neatly, clear hallway, soft lamp, no text, no logos",
+      "seed": 202606220206,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "72d19080-ab5c-4744-83b8-7544065f7d2d",
+      "comfy_output": {
+        "filename": "hermes_batch_b_20260622_00006_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1370735
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260622-gti13-contact-sheet.jpg",
+  "visual_qa": "pending parent visual inspection before final report"
+}
