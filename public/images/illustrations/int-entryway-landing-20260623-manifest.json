@@ -1,0 +1,117 @@
+{
+  "site": "interiornote",
+  "slug": "entryway-landing-strip-renter-rain-heat-routine-2026",
+  "date": "2026-06-23",
+  "assets": [
+    {
+      "filename": "public/images/illustrations/int-entryway-landing-20260623-hero.png",
+      "url": "/images/illustrations/int-entryway-landing-20260623-hero.png",
+      "prompt": "small apartment entryway with narrow bench shoe tray and blank wall hooks, renter friendly no text no labels",
+      "seed": 62323100,
+      "prompt_id": "289fe6e8-458c-4918-9b47-0fa329f53fca",
+      "source_meta": {
+        "filename": "batch_b_20260623_interiornote_0_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13_direct_comfyui",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2
+    },
+    {
+      "filename": "public/images/illustrations/int-entryway-landing-20260623-01.png",
+      "url": "/images/illustrations/int-entryway-landing-20260623-01.png",
+      "prompt": "wet umbrella in simple drip tray on tiled entry floor, clean apartment, no readable text",
+      "seed": 62323101,
+      "prompt_id": "1f46b2e1-e171-4039-adc0-10d8754b9b6f",
+      "source_meta": {
+        "filename": "batch_b_20260623_interiornote_1_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13_direct_comfyui",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2
+    },
+    {
+      "filename": "public/images/illustrations/int-entryway-landing-20260623-02.png",
+      "url": "/images/illustrations/int-entryway-landing-20260623-02.png",
+      "prompt": "blank key tray, tote bag on freestanding rack, closed door, no signs no labels",
+      "seed": 62323102,
+      "prompt_id": "ac3a10ef-2c68-4c79-ada7-3e38c645287f",
+      "source_meta": {
+        "filename": "batch_b_20260623_interiornote_2_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13_direct_comfyui",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2
+    },
+    {
+      "filename": "public/images/illustrations/int-entryway-landing-20260623-03.png",
+      "url": "/images/illustrations/int-entryway-landing-20260623-03.png",
+      "prompt": "open shoe rack with airflow near entry mat, tidy small space, no brand names no text",
+      "seed": 62323103,
+      "prompt_id": "0dacb5be-a945-4753-a476-ed3224a3302b",
+      "source_meta": {
+        "filename": "batch_b_20260623_interiornote_3_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13_direct_comfyui",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2
+    },
+    {
+      "filename": "public/images/illustrations/int-entryway-landing-20260623-04.png",
+      "url": "/images/illustrations/int-entryway-landing-20260623-04.png",
+      "prompt": "parcel return station with plain boxes and blank cards, no shipping labels no addresses",
+      "seed": 62323104,
+      "prompt_id": "7992c279-df4e-43f2-86ef-fee932722f95",
+      "source_meta": {
+        "filename": "batch_b_20260623_interiornote_4_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13_direct_comfyui",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 28,
+      "cfg": 5.2
+    }
+  ]
+}
