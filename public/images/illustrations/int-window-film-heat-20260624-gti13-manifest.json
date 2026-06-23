@@ -1,0 +1,127 @@
+{
+  "date": "2026-06-24",
+  "site": "interiornote",
+  "slug": "renter-window-film-heat-glare-room-layout-2026",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-window-film-heat-20260624-hero.png",
+      "bytes": 1866704,
+      "width": 1536,
+      "height": 864,
+      "prompt": "bright apartment window with translucent removable film and plants set back, no text",
+      "seed": 202606240100,
+      "prompt_id": "06f71d9a-0d75-4030-b863-65e11899dccd",
+      "raw_output": {
+        "filename": "hermes_batchb_20260624_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, labels, logo, brand, watermark, readable screen, fake user interface, QR code, barcode, document text, distorted hands, child face closeup, unsafe wiring, exposed electrical, fire, smoke, medical claims, blurry, low resolution, generic stock art, placeholder"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-window-film-heat-20260624-01.png",
+      "bytes": 1758190,
+      "width": 1536,
+      "height": 864,
+      "prompt": "renter living room with curtains and clear airflow path near window, no labels",
+      "seed": 202606240101,
+      "prompt_id": "184a0be5-6e2e-4f70-b89d-fe5596740219",
+      "raw_output": {
+        "filename": "hermes_batchb_20260624_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, labels, logo, brand, watermark, readable screen, fake user interface, QR code, barcode, document text, distorted hands, child face closeup, unsafe wiring, exposed electrical, fire, smoke, medical claims, blurry, low resolution, generic stock art, placeholder"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-window-film-heat-20260624-02.png",
+      "bytes": 1846414,
+      "width": 1536,
+      "height": 864,
+      "prompt": "hands smoothing a plain translucent removable window film sheet on a bright window, no measuring tools, no text, no numbers",
+      "seed": 202606249102,
+      "prompt_id": "74bd95a4-e628-49f8-bfce-633930f9e6f1",
+      "raw_output": {
+        "filename": "hermes_batchb_20260624_regen_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 4.8,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, labels, logo, brand, watermark, readable screen, fake user interface, QR code, barcode, document text, handwriting, measuring tape numbers, distorted hands, child face closeup, unsafe wiring, blurry, low resolution, placeholder"
+      },
+      "qa_regenerated_final": true
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-window-film-heat-20260624-03.png",
+      "bytes": 1206740,
+      "width": 1536,
+      "height": 864,
+      "prompt": "desk moved away from direct glare with blank laptop screen and soft daylight",
+      "seed": 202606240103,
+      "prompt_id": "50f5f162-5880-4624-8f93-158374f5fedd",
+      "raw_output": {
+        "filename": "hermes_batchb_20260624_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, labels, logo, brand, watermark, readable screen, fake user interface, QR code, barcode, document text, distorted hands, child face closeup, unsafe wiring, exposed electrical, fire, smoke, medical claims, blurry, low resolution, generic stock art, placeholder"
+      }
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-window-film-heat-20260624-04.png",
+      "bytes": 1715301,
+      "width": 1536,
+      "height": 864,
+      "prompt": "summer apartment layout with fan and shaded window, no controls or labels readable",
+      "seed": 202606240104,
+      "prompt_id": "b3b58806-1770-4929-9cb7-ce5a7b03e025",
+      "raw_output": {
+        "filename": "hermes_batchb_20260624_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, labels, logo, brand, watermark, readable screen, fake user interface, QR code, barcode, document text, distorted hands, child face closeup, unsafe wiring, exposed electrical, fire, smoke, medical claims, blurry, low resolution, generic stock art, placeholder"
+      }
+    }
+  ]
+}
