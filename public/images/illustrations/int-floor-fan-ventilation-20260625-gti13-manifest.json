@@ -1,0 +1,154 @@
+{
+  "date": "2026-06-25",
+  "site": "interiornote",
+  "slug": "renter-floor-fan-window-cross-ventilation-heatwave-layout-2026",
+  "endpoint": "redacted-direct-gti13",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "assets": [
+    {
+      "suffix": "hero",
+      "filename": "public/images/illustrations/int-floor-fan-ventilation-20260625-hero.png",
+      "bytes": 1398848,
+      "prompt": "small rental room with floor fan near window and clear cord path, no text no logos",
+      "seed": 202606250100,
+      "prompt_id": "0ea1eadc-415d-4d4d-9820-e7d041f13e57",
+      "raw_output": {
+        "filename": "hermes_batchb_20260625_interiornote_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, currency, receipts, forms, readable documents"
+      }
+    },
+    {
+      "suffix": "01",
+      "filename": "public/images/illustrations/int-floor-fan-ventilation-20260625-01.png",
+      "bytes": 1555527,
+      "prompt": "evening apartment cross ventilation with two windows and minimal furniture, no signs",
+      "seed": 202606250101,
+      "prompt_id": "20d416c6-d962-4220-bc70-2b7f528c5a18",
+      "raw_output": {
+        "filename": "hermes_batchb_20260625_interiornote_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, currency, receipts, forms, readable documents"
+      }
+    },
+    {
+      "suffix": "02",
+      "filename": "public/images/illustrations/int-floor-fan-ventilation-20260625-02.png",
+      "bytes": 1375815,
+      "prompt": "plain unbranded floor fan near light curtain and empty wall, safe clear walkway, no logo, no text, no cords across floor",
+      "seed": 202606251198,
+      "prompt_id": "f28eadc0-b483-4cb1-b9a9-716f701a5cf1",
+      "raw_output": {
+        "filename": "hermes_batchb_20260625_final_interiornote_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, license plate, keypad numbers, calculator, currency, receipts, forms, readable documents, notebook writing, calendar grid"
+      },
+      "regenerated_final_qa": true
+    },
+    {
+      "suffix": "03",
+      "filename": "public/images/illustrations/int-floor-fan-ventilation-20260625-03.png",
+      "bytes": 1483064,
+      "prompt": "rental apartment closed window with hazy outdoor view and blank curtain, no people, no smoking, no phone, no text",
+      "seed": 202606251199,
+      "prompt_id": "a9037f28-066c-451b-843b-6bfe77f6b824",
+      "raw_output": {
+        "filename": "hermes_batchb_20260625_final_interiornote_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 30,
+        "cfg": 5.0,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, license plate, keypad numbers, calculator, currency, receipts, forms, readable documents, notebook writing, calendar grid"
+      },
+      "regenerated_final_qa": true
+    },
+    {
+      "suffix": "04",
+      "filename": "public/images/illustrations/int-floor-fan-ventilation-20260625-04.png",
+      "bytes": 1605845,
+      "prompt": "cooling zone with chair water glass and shaded window, no labels no brands",
+      "seed": 202606250104,
+      "prompt_id": "075e1f8b-cc1d-4f1c-8286-41858180d17b",
+      "raw_output": {
+        "filename": "hermes_batchb_20260625_interiornote_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, currency, receipts, forms, readable documents"
+      }
+    },
+    {
+      "suffix": "05",
+      "filename": "public/images/illustrations/int-floor-fan-ventilation-20260625-05.png",
+      "bytes": 1797612,
+      "prompt": "fan stored safely with cord coiled loosely beside plain basket, no text",
+      "seed": 202606250105,
+      "prompt_id": "b1848be0-9bf2-4313-96f4-36e2799e75a7",
+      "raw_output": {
+        "filename": "hermes_batchb_20260625_interiornote_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "width": 1536,
+      "height": 864,
+      "workflow": {
+        "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+        "steps": 28,
+        "cfg": 5.2,
+        "sampler": "dpmpp_2m",
+        "scheduler": "karras",
+        "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, fake user interface, QR code, barcode, distorted hands, deformed anatomy, unsafe scene, exposed wiring, damaged electrical cords, fake warning sign, blurry, low resolution, generic stock art, placeholder, cartoon, plastic skin, cluttered mess, medical device details, scannable pattern, child face closeup, currency, receipts, forms, readable documents"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-b-20260625-interiornote-contact-sheet-final.jpg",
+  "visual_qa": "accepted after contact-sheet QA; rejected/regenerated text/UI/topic-mismatch assets before commit",
+  "adsense_readiness": "source-backed practical guide, 8 citations, internal links, FAQ/schema, no affiliate filler, GTI13 provenance committed"
+}
