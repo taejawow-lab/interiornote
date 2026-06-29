@@ -1,0 +1,59 @@
+{
+  "endpoint": "GTI15 ComfyUI endpoint redacted in report; source host gti15, generated 2026-06-30 via generate_natural_blog_candidates.py",
+  "dimensions": "1536x864",
+  "qa": "combined contact sheets visually inspected; rejected images excluded from MDX/manifests",
+  "site": "interiornote",
+  "slug": "renter-curtain-tieback-airflow-window-seat-layout-2026",
+  "accepted_count": 6,
+  "images": [
+    {
+      "published_file": "int-curtain-airflow-20260630-01.png",
+      "source_candidate": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch_b_20260630_gti15/interiornote/prompt1/20260630_071446_krea_3236132505.png",
+      "engine": "krea",
+      "seed": "3236132505",
+      "dimensions": "1536x864",
+      "accepted": true
+    },
+    {
+      "published_file": "int-curtain-airflow-20260630-02.png",
+      "source_candidate": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch_b_20260630_gti15/interiornote/prompt1/20260630_071521_realvis_3236132506.png",
+      "engine": "realvis",
+      "seed": "3236132506",
+      "dimensions": "1536x864",
+      "accepted": true
+    },
+    {
+      "published_file": "int-curtain-airflow-20260630-03.png",
+      "source_candidate": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch_b_20260630_gti15/interiornote/prompt1/20260630_071539_juggernaut_3236132507.png",
+      "engine": "juggernaut",
+      "seed": "3236132507",
+      "dimensions": "1536x864",
+      "accepted": true
+    },
+    {
+      "published_file": "int-curtain-airflow-20260630-04.png",
+      "source_candidate": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch_b_20260630_gti15/interiornote/prompt2/20260630_071557_krea_4110554970.png",
+      "engine": "krea",
+      "seed": "4110554970",
+      "dimensions": "1536x864",
+      "accepted": true
+    },
+    {
+      "published_file": "int-curtain-airflow-20260630-05.png",
+      "source_candidate": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch_b_20260630_gti15/interiornote/prompt2/20260630_071634_realvis_4110554971.png",
+      "engine": "realvis",
+      "seed": "4110554971",
+      "dimensions": "1536x864",
+      "accepted": true
+    },
+    {
+      "published_file": "int-curtain-airflow-20260630-06.png",
+      "source_candidate": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch_b_20260630_gti15/interiornote/prompt2/20260630_071651_juggernaut_4110554972.png",
+      "engine": "juggernaut",
+      "seed": "4110554972",
+      "dimensions": "1536x864",
+      "accepted": true
+    }
+  ],
+  "contact_sheet": "public/images/illustrations/int-curtain-airflow-20260630-accepted-contact-sheet.jpg"
+}
