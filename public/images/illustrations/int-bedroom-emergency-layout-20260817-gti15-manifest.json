@@ -1,0 +1,138 @@
+{
+  "site": "interiornote",
+  "articleSlug": "renter-bedroom-emergency-layout-bed-door-window-furniture-safety",
+  "generatedAt": "2026-08-17",
+  "generator": "GTI15 ComfyUI MCP generate_image",
+  "backend": "http://192.168.50.31:8188",
+  "model": "RealVisXL_V5.0_fp16.safetensors",
+  "parameters": {
+    "width": 1152,
+    "height": 768,
+    "steps": 28,
+    "cfg": 5.5,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras"
+  },
+  "sharedSafetyConstraints": "No people, faces, hands, readable text, UI, logos, watermarks, brands, unsafe installation, tools, blocked openings, impossible architecture, or distorted furniture.",
+  "visualQa": {
+    "method": "Final six-image numbered contact sheet inspected with vision after two targeted slot-4 regenerations.",
+    "result": "accepted",
+    "acceptedCount": 6,
+    "contactSheet": "int-bedroom-emergency-layout-20260817-accepted-contact-sheet.jpg"
+  },
+  "assets": [
+    {
+      "slot": 1,
+      "file": "int-bedroom-emergency-layout-20260817-01.png",
+      "seed": 8172601,
+      "assetId": "aa13dfc8-01dd-4ab4-b412-af1e5a9ba541",
+      "promptId": "2af07737-44d7-4404-8d35-4822c11792ff",
+      "sourceFile": "ComfyUI_00075_.png",
+      "brief": "Hero: low bed, calm compact bedroom, open floor area near window.",
+      "workflow": "generate_image",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "width": 1152,
+      "height": 768,
+      "bytes": 1201228,
+      "sha256": "098aed0766413356e5aab11f75c904b81ff5cc85d411f2ee9267387122b68725",
+      "accepted": true
+    },
+    {
+      "slot": 2,
+      "file": "int-bedroom-emergency-layout-20260817-02.png",
+      "seed": 8172602,
+      "assetId": "d3463a42-c842-4e8a-bf11-ffe41a9f2077",
+      "promptId": "c95dbfa6-3ac9-4f86-95c6-b66c14e77a2f",
+      "sourceFile": "ComfyUI_00076_.png",
+      "brief": "Overhead relationship among bed, chair, windows, and circulation.",
+      "workflow": "generate_image",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "width": 1152,
+      "height": 768,
+      "bytes": 1282472,
+      "sha256": "a952525dd4c94dfecd4435e8aa942b36d70a3a253781ab1cd1c5c7fbddd2620b",
+      "accepted": true
+    },
+    {
+      "slot": 3,
+      "file": "int-bedroom-emergency-layout-20260817-03.png",
+      "seed": 8172603,
+      "assetId": "29920bfd-dbb0-4f4e-9d1a-546816823262",
+      "promptId": "2aef12d2-9189-4262-b2b8-72f527a2c2ea",
+      "sourceFile": "ComfyUI_00077_.png",
+      "brief": "Accessible window zone with low furniture kept clear.",
+      "workflow": "generate_image",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "width": 1152,
+      "height": 768,
+      "bytes": 1185322,
+      "sha256": "e2e40f3c94a8bf33119a0ce64a1fa090bd571bda9b39d7c0f4ac7398c6c54642",
+      "accepted": true
+    },
+    {
+      "slot": 4,
+      "file": "int-bedroom-emergency-layout-20260817-04.png",
+      "seed": 8172624,
+      "assetId": "c7fa3041-d39f-403b-a2cf-9f23c6a732a1",
+      "promptId": "45c68d4e-1ba8-411f-94fa-daaa3199e941",
+      "sourceFile": "ComfyUI_00082_.png",
+      "brief": "Low bed and dresser arrangement with clear route toward door.",
+      "regeneration": 2,
+      "workflow": "generate_image",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "width": 1152,
+      "height": 768,
+      "bytes": 1098288,
+      "sha256": "e73b064dd188139b8e4bf25b251297a49deb3f66fec0a958ca4a7ed5f7868a06",
+      "accepted": true
+    },
+    {
+      "slot": 5,
+      "file": "int-bedroom-emergency-layout-20260817-05.png",
+      "seed": 8172605,
+      "assetId": "e34e7927-31dc-4580-8b75-76809294ec94",
+      "promptId": "8acf08dd-a58f-4edf-ac08-dfc49ac1da58",
+      "sourceFile": "ComfyUI_00079_.png",
+      "brief": "Night lighting with uncluttered, cord-free floor.",
+      "workflow": "generate_image",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "width": 1152,
+      "height": 768,
+      "bytes": 966462,
+      "sha256": "b85ee0a4d483633d45ac6f4d6ec527dad68854f9cf318f0e890947aa4a102ab9",
+      "accepted": true
+    },
+    {
+      "slot": 6,
+      "file": "int-bedroom-emergency-layout-20260817-06.png",
+      "seed": 8172606,
+      "assetId": "11ffce68-f3c8-44bf-b39e-23edee02eb9b",
+      "promptId": "b78db5d7-f77f-44d2-be6f-88e2abaa143a",
+      "sourceFile": "ComfyUI_00080_.png",
+      "brief": "Finished compact room with central clear floor and window access.",
+      "workflow": "generate_image",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "width": 1152,
+      "height": 768,
+      "bytes": 1162174,
+      "sha256": "0ae0a12a0cd033bdfd36aef19e10af6c17b7f580d9069e4280fc5ed08e6dc19e",
+      "accepted": true
+    }
+  ],
+  "rejected_generations": [
+    {
+      "slot": 4,
+      "assetId": "b2602168-cdb9-41c0-ab81-862c0fbb737b",
+      "promptId": "175d426e-0ddf-439a-9360-b5081afab329",
+      "sourceFile": "ComfyUI_00078_.png",
+      "reason": "Bookshelf intruded into a doorway composition and contained text-like book spines."
+    },
+    {
+      "slot": 4,
+      "assetId": "05e64b1d-b102-4aae-99ed-fed54822e808",
+      "promptId": "6afeaf48-dbd0-4dc8-b55a-32ec5da245e1",
+      "sourceFile": "ComfyUI_00081_.png",
+      "reason": "Tall open shelving directly beside the bed conflicted with the low-storage safety brief."
+    }
+  ]
+}

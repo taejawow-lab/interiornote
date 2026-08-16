@@ -14,6 +14,7 @@ export const REVIEW_POSTS = [
   "renter-friendly-indoor-air-quality-small-apartment-2026",
   "renter-friendly-layered-lighting-small-apartments",
   "renter-friendly-wildfire-smoke-entry-window-plan-2026",
+  "renter-bedroom-emergency-layout-bed-door-window-furniture-safety",
   "renter-window-insulation-thermal-curtains",
   "room-dividers-zoning-data",
   "rugs-and-pads-noise-reduction-apartments",
