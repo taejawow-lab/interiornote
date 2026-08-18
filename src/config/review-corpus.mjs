@@ -23,7 +23,8 @@ export const REVIEW_POSTS = [
   "small-space-lighting-design",
   "soundproof-curtains-apartments",
   "storage-small-spaces-data",
-  "wall-mounted-desk-options"
+  "wall-mounted-desk-options",
+  "renter-furniture-tip-over-anchor-layout-2026"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;
