@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-21",
+  "site": "interiornote",
+  "host": "GTI15",
+  "visual_qa": "PASS after iterative Krea/RealVisXL contact-sheet review; only selected assets retained",
+  "accepted_count": 6,
+  "rejected_candidates_not_published": true,
+  "contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-final-selected\\interiornote\\int-dual-table-20260821-contact-sheet-final.jpg",
+  "assets": [
+    {
+      "filename": "int-dual-table-20260821-hero.png",
+      "bytes": 1471878,
+      "engine": null,
+      "model": null,
+      "seed": null,
+      "prompt_id": null,
+      "prompt": "wide small apartment with one dining table, two chairs, closed plain laptop in a fabric sleeve, one empty tray, completely clear walking path, photorealistic editorial stock photo, natural soft daylight, physically plausible, simple minimal composition, no people, no hands, no faces, no readable text, no letters, no numbers, no symbols, no logos, no brand marks, no watermark, no labels, no paper sheets, no forms, no receipts, no certificates, no calendars, no currency, no visible screens, no interface, no surreal geometry, no artificial AI look, 1536 by 864 landscape",
+      "source_manifest": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-gti15-realvis\\interiornote\\00\\manifest.json",
+      "qa": "PASS"
+    },
+    {
+      "filename": "int-dual-table-20260821-01.png",
+      "bytes": 1382744,
+      "engine": null,
+      "model": null,
+      "seed": null,
+      "prompt_id": null,
+      "prompt": "side view of stable dining table and supportive chair with a plain footrest, empty tabletop, soft daylight, realistic proportions, photorealistic editorial stock photo, natural soft daylight, physically plausible, simple minimal composition, no people, no hands, no faces, no readable text, no letters, no numbers, no symbols, no logos, no brand marks, no watermark, no labels, no paper sheets, no forms, no receipts, no certificates, no calendars, no currency, no visible screens, no interface, no surreal geometry, no artificial AI look, 1536 by 864 landscape",
+      "source_manifest": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-gti15-realvis\\interiornote\\01\\manifest.json",
+      "qa": "PASS"
+    },
+    {
+      "filename": "int-dual-table-20260821-02.png",
+      "bytes": 1228272,
+      "engine": null,
+      "model": null,
+      "seed": null,
+      "prompt_id": null,
+      "prompt": "empty small dining table beside one open plain storage tray on a shelf holding a closed laptop sleeve and coiled cable, no paper, photorealistic editorial stock photo, natural soft daylight, physically plausible, simple minimal composition, no people, no hands, no faces, no readable text, no letters, no numbers, no symbols, no logos, no brand marks, no watermark, no labels, no paper sheets, no forms, no receipts, no certificates, no calendars, no currency, no visible screens, no interface, no surreal geometry, no artificial AI look, 1536 by 864 landscape",
+      "source_manifest": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-gti15-realvis\\interiornote\\02\\manifest.json",
+      "qa": "PASS"
+    },
+    {
+      "filename": "int-dual-table-20260821-03.png",
+      "bytes": 2073341,
+      "engine": null,
+      "model": null,
+      "seed": null,
+      "prompt_id": null,
+      "prompt": "overhead view of a wooden dining table with two empty solid-color trays and a plain woven mat indicating two zones, no paper or objects, photorealistic editorial stock photo, natural soft daylight, physically plausible, simple minimal composition, no people, no hands, no faces, no readable text, no letters, no numbers, no symbols, no logos, no brand marks, no watermark, no labels, no paper sheets, no forms, no receipts, no certificates, no calendars, no currency, no visible screens, no interface, no surreal geometry, no artificial AI look, 1536 by 864 landscape",
+      "source_manifest": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-gti15-realvis\\interiornote\\03\\manifest.json",
+      "qa": "PASS"
+    },
+    {
+      "filename": "int-dual-table-20260821-04.png",
+      "bytes": 1309743,
+      "engine": null,
+      "model": null,
+      "seed": null,
+      "prompt_id": null,
+      "prompt": "wide apartment corridor flowing past a small dining table with chairs pushed in and doorway fully clear, empty tabletop, photorealistic editorial stock photo, natural soft daylight, physically plausible, simple minimal composition, no people, no hands, no faces, no readable text, no letters, no numbers, no symbols, no logos, no brand marks, no watermark, no labels, no paper sheets, no forms, no receipts, no certificates, no calendars, no currency, no visible screens, no interface, no surreal geometry, no artificial AI look, 1536 by 864 landscape",
+      "source_manifest": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-gti15-realvis\\interiornote\\04\\manifest.json",
+      "qa": "PASS"
+    },
+    {
+      "filename": "int-dual-table-20260821-05.png",
+      "bytes": 1303249,
+      "engine": null,
+      "model": null,
+      "seed": null,
+      "prompt_id": null,
+      "prompt": "evening apartment dining table completely reset and empty, closed plain laptop sleeve stored upright on nearby open shelf with cable box, photorealistic editorial stock photo, natural soft daylight, physically plausible, simple minimal composition, no people, no hands, no faces, no readable text, no letters, no numbers, no symbols, no logos, no brand marks, no watermark, no labels, no paper sheets, no forms, no receipts, no certificates, no calendars, no currency, no visible screens, no interface, no surreal geometry, no artificial AI look, 1536 by 864 landscape",
+      "source_manifest": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchb-20260821-gti15-realvis\\interiornote\\05\\manifest.json",
+      "qa": "PASS"
+    }
+  ]
+}
