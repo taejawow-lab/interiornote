@@ -1,0 +1,89 @@
+{
+  "generated_at": "2026-08-25",
+  "backend": "GTI15 ComfyUI",
+  "endpoint": "http://192.168.50.31:8188",
+  "article_prefix": "int-small-kitchen-airflow-20260825",
+  "accepted_count": 6,
+  "rejected_candidates_excluded": true,
+  "contact_sheet_qa": "PASS; final selected set reassembled and visually inspected before staging",
+  "assets": [
+    {
+      "final_filename": "int-small-kitchen-airflow-20260825-hero.png",
+      "engine": "juggernaut",
+      "model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "prompt_id": "15057650-9843-4858-83dd-9110ead16058",
+      "seed": 3400013635,
+      "dimensions": "1536x864",
+      "bytes": 1328280,
+      "sha256": "c8887e7097f6428d93c29063e6dce6db2ba1c2ac436b1b40c7dd2eb3bb142087",
+      "prompt": "empty small apartment living room with wide open balcony door and tied curtains clear airflow path no appliances no cords no text no people editorial photo",
+      "negative_prompt": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "qa_status": "ACCEPTED_AFTER_CONTACT_SHEET_VISUAL_QA"
+    },
+    {
+      "final_filename": "int-small-kitchen-airflow-20260825-01.png",
+      "engine": "juggernaut",
+      "model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "prompt_id": "6daa1d9a-de69-4e97-8781-398a09947f8d",
+      "seed": 74542886,
+      "dimensions": "1536x864",
+      "bytes": 1316482,
+      "sha256": "51234f55e8590b0f05eea68c4b1d3d0a34471a9971314730adba8181ea5b3a74",
+      "prompt": "Professional editorial photograph of a small rental apartment kitchen with NO range hood, stove completely off and empty, secure plain exhaust fan mounted inside an open window far from stove, fan facing outward, dry counter, no cords visible, no food, no people, no text, no logos",
+      "negative_prompt": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "qa_status": "ACCEPTED_AFTER_CONTACT_SHEET_VISUAL_QA"
+    },
+    {
+      "final_filename": "int-small-kitchen-airflow-20260825-02.png",
+      "engine": "realvis",
+      "model": "RealVisXL_V5.0_fp16.safetensors",
+      "prompt_id": "6a14176f-d73f-47ff-8549-36a521970a75",
+      "seed": 1848791473,
+      "dimensions": "1536x864",
+      "bytes": 1412477,
+      "sha256": "930076f3a89c153eb1d82cc632f38b0cf9c4229d5c6388105405b18cd6e7db94",
+      "prompt": "open apartment kitchen window tied curtain clear counter no stove no appliances no text no people editorial photo",
+      "negative_prompt": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "qa_status": "ACCEPTED_AFTER_CONTACT_SHEET_VISUAL_QA"
+    },
+    {
+      "final_filename": "int-small-kitchen-airflow-20260825-03.png",
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "prompt_id": "ac34c57c-2037-4493-9034-4a57ac0854a1",
+      "seed": 2629067,
+      "dimensions": "1536x864",
+      "bytes": 1510076,
+      "sha256": "33e4c33086a6cf29a4612ba346bda2216caa0ef14ae6242d27824d54c4203186",
+      "prompt": "small apartment dining alcove beside wide open window tied curtains empty table clear walking path no kitchen appliances no text no people editorial photo",
+      "negative_prompt": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "qa_status": "ACCEPTED_AFTER_CONTACT_SHEET_VISUAL_QA"
+    },
+    {
+      "final_filename": "int-small-kitchen-airflow-20260825-04.png",
+      "engine": "juggernaut",
+      "model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "prompt_id": "5b76aa86-8977-4abd-bded-43f7e18fa2d0",
+      "seed": 2629069,
+      "dimensions": "1536x864",
+      "bytes": 1373165,
+      "sha256": "74594f83aa363d7589ce3e4a7c0fc99d3e90449c8be32346d435b6eb498ccf93",
+      "prompt": "small apartment dining alcove beside wide open window tied curtains empty table clear walking path no kitchen appliances no text no people editorial photo",
+      "negative_prompt": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "qa_status": "ACCEPTED_AFTER_CONTACT_SHEET_VISUAL_QA"
+    },
+    {
+      "final_filename": "int-small-kitchen-airflow-20260825-05.png",
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "prompt_id": "336cdc44-2919-4a19-9251-ad00bde6c2d0",
+      "seed": 3400013633,
+      "dimensions": "1536x864",
+      "bytes": 1460886,
+      "sha256": "09b7477d441b7281477d97877c7204167d3f74de0919029ac9c79beb0cd02aff",
+      "prompt": "empty small apartment living room with wide open balcony door and tied curtains clear airflow path no appliances no cords no text no people editorial photo",
+      "negative_prompt": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "qa_status": "ACCEPTED_AFTER_CONTACT_SHEET_VISUAL_QA"
+    }
+  ]
+}
