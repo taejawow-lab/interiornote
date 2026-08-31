@@ -27,6 +27,7 @@ export const REVIEW_POSTS = [
   "renter-furniture-tip-over-anchor-layout-2026",
   "small-apartment-dining-table-work-desk-dual-use-layout-2026"
   ,"small-apartment-kitchen-ventilation-without-range-hood-2026"
+  ,"small-apartment-fire-extinguisher-placement-renter-2026"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;

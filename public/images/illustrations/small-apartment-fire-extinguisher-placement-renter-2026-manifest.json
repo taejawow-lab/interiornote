@@ -1,0 +1,39 @@
+{
+  "site": "interiornote",
+  "slug": "small-apartment-fire-extinguisher-placement-renter-2026",
+  "generated_at": "2026-08-31",
+  "backend": "GTI15 ComfyUI",
+  "visual_qa": "PASS",
+  "assets": [
+    {
+      "filename": "small-apartment-fire-extinguisher-placement-renter-2026-1.png",
+      "source": "interiornote/final2/20260831_100641_krea_851175127.png",
+      "accepted": true
+    },
+    {
+      "filename": "small-apartment-fire-extinguisher-placement-renter-2026-2.png",
+      "source": "interiornote/accept1/20260831_101721_realvis_842624143.png",
+      "accepted": true
+    },
+    {
+      "filename": "small-apartment-fire-extinguisher-placement-renter-2026-3.png",
+      "source": "interiornote/accept1/20260831_101739_juggernaut_842624144.png",
+      "accepted": true
+    },
+    {
+      "filename": "small-apartment-fire-extinguisher-placement-renter-2026-4.png",
+      "source": "interiornote/accept2/20260831_101756_krea_3116221917.png",
+      "accepted": true
+    },
+    {
+      "filename": "small-apartment-fire-extinguisher-placement-renter-2026-5.png",
+      "source": "interiornote/accept2/20260831_101831_realvis_3116221918.png",
+      "accepted": true
+    },
+    {
+      "filename": "small-apartment-fire-extinguisher-placement-renter-2026-6.png",
+      "source": "interiornote/accept2/20260831_101848_juggernaut_3116221919.png",
+      "accepted": true
+    }
+  ]
+}
