@@ -6,6 +6,15 @@ import mdx from '@astrojs/mdx';
 // 사이트별 환경 변수에서 site URL 읽음 (자동 셋업 스크립트가 .env 자동 생성)
 const SITE_URL = process.env.PUBLIC_SITE_URL || 'https://interiornote.org';
 
+// Confirmed noindex category routes; preserve robots directives.
+// Recheck this bounded list when retained category membership changes.
+const NOINDEX_CATEGORY_PATHS = new Set([
+  '/category/organization/',
+  '/category/renter-safety/',
+  '/category/room-planning/',
+  '/category/small-space/',
+]);
+
 export default defineConfig({
   site: SITE_URL,
   integrations: [
@@ -15,7 +24,7 @@ export default defineConfig({
     sitemap({
       filter: (page) => {
         const { pathname } = new URL(page);
-        return !pathname.startsWith('/tags/') && pathname !== '/search/' && !pathname.startsWith('/posts/page/');
+        return !NOINDEX_CATEGORY_PATHS.has(decodeURIComponent(pathname.replace(/\/?$/, '/'))) && !pathname.startsWith('/tags/') && pathname !== '/search/' && !pathname.startsWith('/posts/page/');
       },
     }),
     mdx(),
