@@ -1,0 +1,87 @@
+{
+  "site": "interiornote",
+  "date": "2026-09-30",
+  "purpose": "existing-public-content visualsCount repair",
+  "assets": [
+    {
+      "filename": "post2-rental.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post2-rental/20260930_124642_krea_930018.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    },
+    {
+      "filename": "post2-underbed.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post2-underbed/20260930_124624_krea_930017.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    },
+    {
+      "filename": "post3-murphy.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/diagrams/post3-murphy.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "deterministic editorial diagram"
+    },
+    {
+      "filename": "post3-ottoman.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post3-ottoman/20260930_124428_krea_930010.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    },
+    {
+      "filename": "post3-outfit.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post3-outfit/20260930_124446_krea_930011.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    },
+    {
+      "filename": "post4-mirror.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/diagrams/post4-mirror.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "deterministic editorial diagram"
+    },
+    {
+      "filename": "post4-rental.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/diagrams/post4-rental.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "deterministic editorial diagram"
+    },
+    {
+      "filename": "post4-temperature.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post4-temperature/20260930_124502_krea_930012.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    },
+    {
+      "filename": "post5-curtain.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post5-curtain/20260930_124552_krea_930015.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    },
+    {
+      "filename": "post5-layout.png",
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/cache/scratch/batch-b-repair-images/interiornote/post5-layout/20260930_124608_krea_930016.png",
+      "width": 1536,
+      "height": 864,
+      "qa": "PASS",
+      "provenance": "GTI15 Krea visual-QA pass"
+    }
+  ]
+}
